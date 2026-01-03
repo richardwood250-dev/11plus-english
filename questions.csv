@@ -1,0 +1,101 @@
+Question ref,Question,Option A,Option B,Option C,Option D,Option E,Correct,PassageFile
+T1Q1,Which country contains the majority of the Amazon Rainforest?,Peru,Brazil,Colombia,Venezuela,Ecuador,B,text_01.txt
+T1Q2,"Why is the Amazon referred to as the ""lungs of the planet""?",It breathes like a human.,It is shaped like a lung.,It produces a large amount of oxygen.,It is full of animals.,It is very humid.,C,text_01.txt
+T1Q3,"According to the text, which layer is the highest?",Canopy,Understorey,Emergent layer,Forest floor,Soil layer,C,text_01.txt
+T1Q4,What is the main reason plants in the understorey have large leaves?,To look beautiful.,To repel insects.,To capture minimal sunlight.,To catch rain.,To hide from predators.,C,text_01.txt
+T1Q5,Which animals are described as prowling the understorey?,Eagles and bats,Toucans and frogs,Jaguars and leopards,Anteaters and tapirs,Snakes and spiders,C,text_01.txt
+T1Q6,Why do very few plants grow on the forest floor?,It is too cold.,The soil is toxic.,There is too much water.,It is extremely dark.,The animals eat them all.,D,text_01.txt
+T1Q7,"Which word in the text means ""variety of life""?",Biodiversity,Environment,Habitat,Organism,Vegetation,A,text_01.txt
+T1Q8,What is the function of the canopy layer?,To produce all the oxygen.,To block winds and rainfall.,To decompose leaves.,To anchor the trees.,To heat the forest.,B,text_01.txt
+T1Q9,Which of these is mentioned as a threat to the rainforest?,Tourism,Heavy rainfall,Logging and farming,Wildfires,Insects,C,text_01.txt
+T1Q10,"""Deforestation... is destroying habitats at an alarming rate."" (Line 23). In this sentence, the word ""alarming"" is an:",Noun,Verb,Adjective,Adverb,Pronoun,C,text_01.txt
+T2Q1,What did the house overlook?,A river,A busy street,A lane,A park,A forest,C,text_02.txt
+T2Q2,How did Leo feel about the attic room?,He was scared of it.,He disliked the smell.,He claimed it as his own.,He thought it was too small.,He wanted to paint it.,C,text_02.txt
+T2Q3,What gave away the secret door?,A hidden handle.,A loose floorboard.,A different colour paint.,A mismatched seam in the wallpaper.,A sign on the wall.,D,text_02.txt
+T2Q4,Which simile is used to describe the cobwebs?,Like silk threads,Like ghostly fingers,Like silver nets,Like sticky traps,Like old lace,B,text_02.txt
+T2Q5,What did the passageway smell of?,Damp earth,Old paper,Rotting wood,Dried lavender,Fresh rain,D,text_02.txt
+T2Q6,Why was Leo surprised when he opened the chest?,It was locked.,It was empty.,It contained books instead of gold.,It contained a skeleton.,It was full of toys.,C,text_02.txt
+T2Q7,Who did the diary belong to?,Leo,Barnaby Thorne,His grandfather,The previous owner,An unknown soldier,B,text_02.txt
+T2Q8,What date was the diary entry written?,October 1st,December 25th,January 1st,October 31st,November 5th,D,text_02.txt
+T2Q9,How did Leo feel at the end of the passage?,Bored,Terrified,Disappointed,Excited/Intrigued,Angry,D,text_02.txt
+T2Q10,"""Leo sat cross-legged on the floor."" In this sentence, the word ""sat"" is a:",Noun,Adjective,Verb,Adverb,Preposition,C,text_02.txt
+T3Q1,What was Arachne famous for?,Singing,Painting,Weaving,Dancing,Cooking,C,text_03.txt
+T3Q2,What was Arachne’s major flaw?,She was lazy.,She was untalented.,She was proud/arrogant.,She was greedy.,She was dishonest.,C,text_03.txt
+T3Q3,Who disguised herself as an old woman?,Arachne,Hera,Athena,Aphrodite,The Queen,C,text_03.txt
+T3Q4,How did Arachne react to the old woman's warning?,She apologised.,She cried.,She laughed and dismissed it.,She ran away.,She asked for help.,C,text_03.txt
+T3Q5,What did Athena's tapestry depict?,The glory of the gods.,Scenes of nature.,The future of Greece.,Animals and birds.,Arachne's life.,A,text_03.txt
+T3Q6,Why was Athena angry at Arachne's work?,It was ugly.,It was unfinished.,It was better than hers.,It was disrespectful to the gods.,It was copied.,D,text_03.txt
+T3Q7,What happened to Arachne in the end?,She became a goddess.,She was turned into a stone.,She was turned into a spider.,She was banished.,She became a queen.,C,text_03.txt
+T3Q8,"Which word is closest in meaning to ""vibrant""? (Paragraph 8)",Dull,Bright/Lively,Dark,Rough,Smooth,B,text_03.txt
+T3Q9,Why did people travel to see Arachne?,To buy her cloth.,To warn her.,To see her fingers fly.,To eat her food.,To see her house.,C,text_03.txt
+T3Q10,"""She boasted that she was a better weaver."" Which word is the pronoun?",She,Boasted,Better,Weaver,Was,A,text_03.txt
+T4Q1,What was Sam dressed as?,A tree,A dragon,A knight,A king,A wizard,C,text_04.txt
+T4Q2,What was Sam's sword made of?,Real steel,Wood,Plastic,A pool noodle,Cardboard,D,text_04.txt
+T4Q3,How did Sam feel before going on stage?,Confident,Bored,Panicked,Angry,Sleepy,C,text_04.txt
+T4Q4,Who helped Sam remember his line?,Mr. Henderson,Maya,His mum,The dragon,Nobody,B,text_04.txt
+T4Q5,What happened to the dragon?,It breathed fire.,It fell off stage.,It forgot its lines.,One of the boys tripped.,It lost its costume.,D,text_04.txt
+T4Q6,What did Sam do when the dragon tripped?,He ran away.,He cried.,He froze then improvised a joke.,He shouted at the boys.,He helped them up.,C,text_04.txt
+T4Q7,"What does ""ad-libbed"" mean?",To read from a script.,To stay silent.,To make something up on the spot.,To leave the stage.,To whisper.,C,text_04.txt
+T4Q8,How did the audience react to Sam's joke?,They booed.,They stayed silent.,They laughed encouragingly.,They left.,They threw things.,C,text_04.txt
+T4Q9,What metaphor is used to describe Sam's panic?,A heavy stone,A bubble,A dark cloud,A tight knot,A fire,B,text_04.txt
+T4Q10,"""Sam marched to the centre of the stage."" Which word is a preposition?",Sam,Marched,To,Centre,Stage,C,text_04.txt
+T5Q1,Which act changed how the poor were looked after?,The Poor Law Amendment Act,The Workhouse Act,The Victorian Act,The Parish Act,The Poverty Law,A,text_05.txt
+T5Q2,Why were workhouses designed to be unpleasant?,To save money on decoration.,To punish criminals.,To deter people from seeking help unless desperate.,Because the builders were unskilled.,To make them look scary.,C,text_05.txt
+T5Q3,What happened to families when they entered the workhouse?,They were given a house.,They stayed together.,They were separated.,They were sent abroad.,They were given money.,C,text_05.txt
+T5Q4,"What was ""oakum picking""?",Picking oak trees.,Unravelling old ropes.,Cleaning the floors.,Cooking food.,Sewing clothes.,B,text_05.txt
+T5Q5,What was the main meal served in the workhouse?,Roast beef,Bread and cheese,Stew,Gruel,Fish,D,text_05.txt
+T5Q6,Why did fingers bleed during oakum picking?,The ropes were tarry and hard.,They used sharp needles.,They had to lift heavy stones.,The water was too hot.,They were punished.,A,text_05.txt
+T5Q7,Who might end up in a workhouse?,Rich merchants,"Orphans, elderly, and sick",Soldiers,Farmers,Royalty,B,text_05.txt
+T5Q8,"Which word is closest in meaning to ""deliberately""? (Paragraph 2)",Accidently,Quickly,Intentionally,Sadly,Carefully,C,text_05.txt
+T5Q9,What did the government fear would happen if workhouses were comfortable?,People would become lazy.,It would cost too much.,They would run out of space.,The staff would quit.,People would steal.,A,text_05.txt
+T5Q10,"""It was a grim institution."" Which word is an adjective?",It,Was,A,Grim,Institution,D,text_05.txt
+T6Q1,Where did the Stag go to drink?,A river,A lake,A pool,A bucket,A stream,C,text_06.txt
+T6Q2,What did the Stag admire about himself?,His legs,His eyes,His tail,His antlers,His coat,D,text_06.txt
+T6Q3,Why was the Stag ashamed of his legs?,They were too short.,They were spindly and thin.,They were muddy.,They were broken.,They were hairy.,B,text_06.txt
+T6Q4,Who chased the Stag?,A hunter,A pack of wolves,A Lion,A tiger,A bear,C,text_06.txt
+T6Q5,What helped the Stag escape initially?,His antlers,His speed/legs,Hiding in a cave,Swimming,Flying,B,text_06.txt
+T6Q6,What caused the Stag to get caught?,He tripped.,He got tired.,His antlers got tangled in branches.,He stopped to drink.,The Lion was faster.,C,text_06.txt
+T6Q7,What is the moral of the story?,Always drink water.,Lions are dangerous.,Do not run into forests.,We often despise what is most useful to us.,Antlers are better than legs.,D,text_06.txt
+T6Q8,"Which word means ""hate"" or ""scorn""?",Admire,Emerged,Despise,Swiftly,Undoing,C,text_06.txt
+T6Q9,How is the Lion described?,Fast and light,Heavy,Silent,Invisible,Friendly,B,text_06.txt
+T6Q10,"""He bounded across the plain."" Which word is the verb?",He,Bounded,Across,The,Plain,B,text_06.txt
+T7Q1,Where does the scarecrow stand?,In a garden,In a field of wheat,By the river,In a barn,On a hill,B,text_07.txt
+T7Q2,What is the scarecrow's nose made of?,A button,A stone,A stick,A carrot,Corn,D,text_07.txt
+T7Q3,Does the scarecrow ever leave his patch?,"Yes, at night.",Only in winter.,"No, never.",When the farmer moves him.,"Yes, to scare crows.",C,text_07.txt
+T7Q4,What animal makes a nest in the scarecrow?,A bird,A mouse,A rat,A spider,A rabbit,B,text_07.txt
+T7Q5,What happens to the scarecrow in summer?,He melts.,He starts to fade.,He grows.,He falls down.,He sings.,B,text_07.txt
+T7Q6,How is the scarecrow described in winter?,Warm and cosy,Stiff and stark,Happy and bright,Gone,Asleep,B,text_07.txt
+T7Q7,"""He stands a sentry."" What is a sentry?",A farmer,A soldier/guard,A statue,A ghost,A tree,B,text_07.txt
+T7Q8,What is the rhyme scheme of the first stanza?,ABAB,AABB,ABBA,ABCB,ABCD,B,text_07.txt
+T7Q9,Which phrase is an example of alliteration?,Muddy boots,Coat is torn,Stiff and stark,Carrot nose,Winter frost,C,text_07.txt
+T7Q10,"""He has no voice to scare the crows."" In this sentence, ""scare"" is a:",Noun,Adjective,Verb,Adverb,Pronoun,C,text_07.txt
+T8Q1,How long have sharks existed?,100 years,1 million years,65 million years,400 million years,1000 years,D,text_08.txt
+T8Q2,Which is the largest shark mentioned?,Great White,Hammerhead,Dwarf Lanternshark,Whale Shark,Tiger Shark,D,text_08.txt
+T8Q3,What are shark skeletons made of?,Bone,Metal,Cartilage,Muscle,Skin,C,text_08.txt
+T8Q4,"What is ""electroreception""?",The ability to make electricity.,The ability to detect electrical pulses.,The ability to swim fast.,The ability to glow.,The ability to sleep.,B,text_08.txt
+T8Q5,Why are sharks important to the ocean?,They look scary.,They eat all the fish.,They keep fish populations in balance.,They produce oxygen.,They make the water clean.,C,text_08.txt
+T8Q6,What material is cartilage compared to in the text?,Wood,Iron,Material in nose and ears,Plastic,Glass,C,text_08.txt
+T8Q7,"According to the text, what are you more likely to be struck by than a shark?",A car,Lightning,A meteor,A boat,A falling coconut,B,text_08.txt
+T8Q8,"What does ""apex predator"" mean?",A predator that eats plants.,A predator at the bottom of the food chain.,A predator at the top of the food chain.,A fast predator.,A small predator.,C,text_08.txt
+T8Q9,Why are shark numbers dropping?,Disease,Climate change,Overfishing,Lack of food,Pollution,C,text_08.txt
+T8Q10,"""Sharks play a vital role."" Which word is an adjective?",Sharks,Play,A,Vital,Role,D,text_08.txt
+T9Q1,What was the weather like?,Sunny,Raining,Snowing,Misty/Foggy,Windy,D,text_09.txt
+T9Q2,How did the moor make Arthur feel?,Happy,Claustrophobic,Excited,Bored,Safe,B,text_09.txt
+T9Q3,What did the gorse bushes look like to Arthur?,Sheep,Crouching beasts,People,Cars,Monsters,B,text_09.txt
+T9Q4,What danger had his mother warned him about?,Wolves,Getting lost,Treacherous bogs,Thieves,Ghosts,C,text_09.txt
+T9Q5,"What was the ""tall and jagged"" shape?",A monster,A tree,A house,A standing stone,A person,D,text_09.txt
+T9Q6,What sound did Arthur hear?,Singing,A whistle,A car engine,Hooves/Thumping,A scream,D,text_09.txt
+T9Q7,What animal ran past Arthur?,A sheep,A cow,A pony,A dog,A wolf,C,text_09.txt
+T9Q8,Which word describes the pony?,Calm,Riderless,Black,Slow,Friendly,B,text_09.txt
+T9Q9,Why did Arthur test the ground with his stick?,To find treasure.,To kill snakes.,To check for safe footing.,To make noise.,To lean on it.,C,text_09.txt
+T9Q10,"""The mist had descended with frightening speed."" Which word is the noun?",Mist,Had,Descended,With,Frightening,A,text_09.txt
+T10Q1,What keeps the planets in orbit around the Sun?,Magnetism,Wind,Gravity,Electricity,Magic,C,text_10.txt
+T10Q2,How many recognised planets are there?,Seven,Eight,Nine,Ten,Twelve,B,text_10.txt
+T10Q3,Which planet is the hottest?,Mercury,Venus,Mars,Jupiter,Earth,B,text_10.txt
+T10Q4,"Why are the inner planets called ""terrestrial""?",They are hot.,They are near the sun.,They are made of rock and metal.,They have aliens.,They are small.,C,text_10.txt
+T10Q5,Which planet has the Great Red Spot?,Saturn,Uranus,Neptune,Jupiter,Mars,D,text_10.txt
+T10Q6,What are Saturn's rings made of?,Gas,Dust,Ice and rock chunks,Metal,Fire,C,text_10.txt
+T10Q7,Why was Pluto reclassified?,It disappeared.,It exploded.,It was too small.,It moved away.,Scientists forgot about it.,C,text_10.txt
+T10Q8,"What does ""terrestrial"" mean in this context?",Earth-like / Rocky,Alien,Gas-filled,Cold,Distant,A,text_10.txt
+T10Q9,What is the Kuiper Belt filled with?,Stars,Black holes,Icy bodies and dwarf planets,Aliens,Gas,C,text_10.txt
+T10Q10,"""Scientists decided it was too small."" Which word is the verb?",Scientists,Decided,It,Too,Small,B,text_10.txt
