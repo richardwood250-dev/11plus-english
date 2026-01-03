@@ -95,7 +95,210 @@ T10Q3,Which planet is the hottest?,Mercury,Venus,Mars,Jupiter,Earth,B,text_10.tx
 T10Q4,"Why are the inner planets called ""terrestrial""?",They are hot.,They are near the sun.,They are made of rock and metal.,They have aliens.,They are small.,C,text_10.txt
 T10Q5,Which planet has the Great Red Spot?,Saturn,Uranus,Neptune,Jupiter,Mars,D,text_10.txt
 T10Q6,What are Saturn's rings made of?,Gas,Dust,Ice and rock chunks,Metal,Fire,C,text_10.txt
+Question ref,Question,Option A,Option B,Option C,Option D,Option E,Correct,PassageFile
+T11Q1,What time did the clock chime?,Ten,Eleven,Twelve,One,Two,C,text_11.txt
+T11Q2,Why did Tom sneak to the window?,He heard a noise.,He was thirsty.,To check if the stories were true.,To let the cat in.,To close the curtains.,C,text_11.txt
+T11Q3,What colour was the glow in the garden?,Green,Silver,Gold,Purple,Blue,D,text_11.txt
+T11Q4,Which word describes the lilies?,Dead,Luminous,Tiny,Red,Plastic,B,text_11.txt
+T11Q5,What did the hedge do?,It caught fire.,It turned into a wall.,It uncurled and shook.,It flowered.,It disappeared.,C,text_11.txt
+T11Q6,What did the creature look like?,A large dog,A tiny cat with dragonfly wings,A bird,A goblin,A ghost,B,text_11.txt
+T11Q7,How did the creature react to seeing Tom?,It screamed.,It flew away in fear.,It smiled and put a finger to its lips.,It threw a stone.,It ignored him.,C,text_11.txt
+T11Q8,"Which word is closest in meaning to ""emanate""? (Paragraph 2)",Hide,Stop,Come from / Spread out,Smell,Darken,C,text_11.txt
+T11Q9,Why did Tom think nobody would believe him?,He is a liar.,It was a dream.,It was too magical/unusual.,His parents were awake.,He had no camera.,C,text_11.txt
+T11Q10,"""Slipping his feet into his cold slippers."" Which word is the verb?",Slipping,His,Feet,Cold,Slippers,A,text_11.txt
+T12Q1,What is a force described as?,A solid object,A push or a pull,A type of energy,A speed,A light,B,text_12.txt
+T12Q2,What force pulls objects to the centre of the Earth?,Friction,Magnetism,Gravity,Air Resistance,Tension,C,text_12.txt
+T12Q3,What happens when you roll a ball on grass?,It speeds up.,It floats.,It stops due to friction.,It bounces forever.,It grows.,C,text_12.txt
+T12Q4,Which surface would create the most friction?,Ice,Glass,Wet floor,Sandpaper,Smooth plastic,D,text_12.txt
+T12Q5,How does a parachute work?,It uses gravity.,It uses magnetism.,It creates air resistance.,It uses an engine.,It removes air.,C,text_12.txt
+T12Q6,What unit are forces measured in?,Kilograms,Metres,Seconds,Newtons,Litres,D,text_12.txt
+T12Q7,Who are the units of force named after?,Albert Einstein,Isaac Newton,Galileo,Charles Darwin,Marie Curie,B,text_12.txt
+T12Q8,"Which word means ""to shape something into a formula or rule""?",Attracts,Withstand,Formulated,Squash,Resist,C,text_12.txt
+T12Q9,"""Gravity is a pulling force."" In this sentence, ""pulling"" is acting as an:",Noun,Adjective,Verb,Adverb,Pronoun,B,text_12.txt
+T12Q10,What would happen without gravity?,We would be heavy.,We would float off into space.,We would run faster.,Nothing would change.,The earth would stop spinning.,B,text_12.txt
+T13Q1,What was Elara forbidden to touch?,The cuckoo clock,The tools,The golden pocket watch,The till,The door,C,text_13.txt
+T13Q2,Where did her father go?,To the pub,To buy parts,To deliver a clock to the Duke,To sleep,To Paris,C,text_13.txt
+T13Q3,What was unusual about the watch face?,It had no hands.,It was broken.,It had symbols instead of numbers.,It was square.,It was blue.,C,text_13.txt
+T13Q4,What happened when Elara wound the watch?,It broke.,It played music.,The world/time stopped.,It exploded.,Her father returned.,C,text_13.txt
+T13Q5,How did Elara know time had stopped?,The clock struck 13.,A raindrop hung in the air.,It got dark.,She fell asleep.,The birds sang backwards.,B,text_13.txt
+T13Q6,Which simile is used to describe the raindrop?,Like a tear,Like a diamond,Like a pearl,Like a stone,Like a star,B,text_13.txt
+T13Q7,Why did Elara touch the watch?,She was angry.,She was bored.,Curiosity drew her to it.,She wanted to sell it.,Her father told her to.,C,text_13.txt
+T13Q8,"What is the meaning of ""persistent""? (Paragraph 3)",Stopping quickly,Annoying,Continuing firmly/Not going away,Silent,Heavy,C,text_13.txt
+T13Q9,"""The lid sprang open."" Which word is the verb?",The,Lid,Sprang,Open,Watch,C,text_13.txt
+T13Q10,How did the watch feel to the touch?,Cold,Sticky,Warm,Wet,Sharp,C,text_13.txt
+T14Q1,How long did the Ancient Egyptian civilisation flourish?,100 years,"1,000 years","Over 3,000 years",500 years,"10,000 years",C,text_14.txt
+T14Q2,What did Herodotus call Egypt?,The desert kingdom,The gift of the Nile,The land of gold,The pyramid place,The hot land,B,text_14.txt
+T14Q3,"What was the ""Inundation""?",A war,A festival,The annual flooding of the river,A type of boat,A pharaoh,C,text_14.txt
+T14Q4,"What is ""silt""?",Gold,Sand,Black mud rich in nutrients,Water,Stone,C,text_14.txt
+T14Q5,What crops did they grow?,Potatoes and rice,Wheat and barley,Corn and soy,Apples and pears,Cotton only,B,text_14.txt
+T14Q6,Why did they use canals?,To swim in.,To hide from enemies.,To irrigate fields.,To keep crocodiles.,To wash clothes.,C,text_14.txt
+T14Q7,Who was Hapi?,The god of the sun,The god of the Nile,The king,A farmer,A type of fish,B,text_14.txt
+T14Q8,"Which word means ""to grow or develop successfully""?",Receded,Irrigate,Flourished,Transport,Worshipped,C,text_14.txt
+T14Q9,What was linen made from?,Wool,Cotton,Flax,Silk,Silt,C,text_14.txt
+T14Q10,"""Most of Egypt is hot and dry."" Which word is an adjective?",Most,Egypt,Is,Hot,And,D,text_14.txt
+T15Q1,What colour was the sky?,Blue,Grey,Bruised and purple-black,Red,White,C,text_15.txt
+T15Q2,"What literary device is ""The thunder grumbled""?",Simile,Metaphor,Personification,Alliteration,Rhyme,C,text_15.txt
+T15Q3,What is the lightning compared to?,A torch,A jagged scar,A firework,A snake,A sword,B,text_15.txt
+T15Q4,What did the rain turn the road into?,A river,A lake,A muddy morass,A swimming pool,A path,C,text_15.txt
+T15Q5,How did the dogs react?,They barked.,They slept.,They whined and hid.,They played.,They ran away.,C,text_15.txt
+T15Q6,"What provided a ""beam of hope""?",The moon,A car,The lighthouse,A torch,The sun,C,text_15.txt
+T15Q7,What is the rhyme scheme of the poem?,ABAB,AABB,ABBA,None,ABCB,B,text_15.txt
+T15Q8,"Which word means ""a complicated or confused situation"" or ""muddy ground""?",Morass,Landscape,Whitecaps,Sentry,Attack,A,text_15.txt
+T15Q9,"""It drummed on roofs."" What sense is this appealing to?",Sight,Smell,Sound/Hearing,Taste,Touch,C,text_15.txt
+T15Q10,Which word in the text is a verb?,Wind,Tore,Leaves,Trees,Sea,B,text_15.txt
+T16Q1,What is bioluminescence?,Living light,A type of fish,A plant,A star,Sunlight,A,text_16.txt
+T16Q2,What two things react to create the light?,Sugar and water,Luciferin and oxygen,Salt and vinegar,Fire and wood,Heat and air,B,text_16.txt
+T16Q3,How is animal light different from a lightbulb?,It is brighter.,It is darker.,"It is ""cold light"" (no heat).",It is red.,It lasts longer.,C,text_16.txt
+T16Q4,Why do fireflies glow?,To see where they are going.,To scare predators.,To attract a mate.,To keep warm.,To read.,C,text_16.txt
+T16Q5,How does the Anglerfish use light?,To find a mate.,To lure prey/food.,To see rocks.,To hide.,To sleep.,B,text_16.txt
+T16Q6,"What is ""counter-illumination""?",Making light brighter.,Turning light off.,Using light for camouflage against the surface.,Counting lights.,Attacking with light.,C,text_16.txt
+T16Q7,Where is bioluminescence very common?,In the desert,In the deep ocean,In the mountains,In cities,In rivers,B,text_16.txt
+T16Q8,Which word describes the Anglerfish's habitat?,Sunny,Pitch blackness,Green,Shallow,Sandy,B,text_16.txt
+T16Q9,"""It doesn't waste energy."" Which word is the noun?",It,Does,Not,Waste,Energy,E,text_16.txt
+T16Q10,Why do squid light up their undersides?,To look pretty.,To see the bottom.,To hide their silhouette from predators below.,To warm up.,To talk to other squid.,C,text_16.txt
+T17Q1,Where was the Lion sleeping?,In a tree,In a cave,In his lair,On a rock,In a cage,C,text_17.txt
+T17Q2,Why did the Lion wake up?,A mouse ran over his paw.,He was hungry.,He heard a noise.,It rained.,A hunter came.,A,text_17.txt
+T17Q3,What did the Mouse promise?,To bring food.,To sing.,To help the Lion one day.,To leave.,To clean the lair.,C,text_17.txt
+T17Q4,Why did the Lion let the Mouse go?,He was full.,The Mouse was too small.,The Mouse made him laugh.,He was tired.,He was scared.,C,text_17.txt
+T17Q5,What happened to the Lion later?,He got sick.,He fell in a river.,He was caught in a hunter's trap.,He became king.,He found a mate.,C,text_17.txt
+T17Q6,How did the Mouse free the Lion?,He cut the ropes with a knife.,He gnawed the ropes with his teeth.,He untied the knots.,He called for help.,He burned the ropes.,B,text_17.txt
+T17Q7,What is the lesson/moral of the story?,Lions are weak.,Mice are tasty.,Don't sleep in forests.,Even small friends can be great helps.,Traps are dangerous.,D,text_17.txt
+T17Q8,"Which word means ""trouble"" or ""difficult situation""?",Lair,Plight,Thrashed,Hoisted,Gnaw,B,text_17.txt
+T17Q9,"""He scurried to the trap."" Which word is the verb?",He,Scurried,To,The,Trap,B,text_17.txt
+T17Q10,How did the Lion feel when trapped?,Happy,Calm,Furious and scared,Sleepy,Bored,C,text_17.txt
+T18Q1,How many men were in a legion?,100,"1,000","5,000","10,000",500,C,text_18.txt
+T18Q2,How long did a soldier sign up for?,5 years,10 years,20 years,25 years,Life,D,text_18.txt
+T18Q3,"What was a ""scutum""?",A sword,A spear,A helmet,A curved shield,A boot,D,text_18.txt
+T18Q4,"What was the ""testudo"" formation?",Snake,Tortoise,Eagle,Wall,Arrow,B,text_18.txt
+T18Q5,Why did they use the tortoise formation?,To sleep.,To look scary.,To protect against arrows.,To move faster.,To carry supplies.,C,text_18.txt
+T18Q6,What else did soldiers do besides fight?,Cook,Paint,Build roads and forts,Farm,Fish,C,text_18.txt
+T18Q7,What weapons did they use?,Guns and knives,Bows and arrows,Sword and javelin,Axes and hammers,Spears only,C,text_18.txt
+T18Q8,"Which word means ""well-behaved and obeying rules""?",Successful,Disciplined,Professional,Powerful,Clever,B,text_18.txt
+T18Q9,"""They built thousands of miles of straight roads."" Which word is an adjective?",Built,Thousands,Miles,Straight,Roads,D,text_18.txt
+T18Q10,Why were roads important?,To look nice.,For trade.,For legions to travel quickly.,For holidays.,To mark the border.,C,text_18.txt
+T19Q1,What was the house like?,New and shiny,Empty and derelict,Small and cosy,Pink,Full of people,B,text_19.txt
+T19Q2,What covered the windows?,Curtains,Glass,Jagged planks of wood,Metal bars,Shutters,C,text_19.txt
+T19Q3,What did Jack dare Harry to do?,Go inside.,Throw a stone.,Touch the front door.,Ring the bell.,Climb the roof.,C,text_19.txt
+T19Q4,What sound did Harry hear first?,A scream,A laugh,A THUMP,A whistle,A voice,C,text_19.txt
+T19Q5,What happened to the door handle?,It fell off.,It turned slowly.,It got hot.,It disappeared.,It locked.,B,text_19.txt
+T19Q6,Why did Harry fall?,He was pushed.,He fainted.,His shoelace caught.,The path was slippery.,He was tired.,C,text_19.txt
+T19Q7,How did Jack react?,He laughed.,He ran away too.,He went inside.,He cried.,He called the police.,B,text_19.txt
+T19Q8,Which word describes the ivy?,Pretty,Strangled,Green,Dead,Soft,B,text_19.txt
+T19Q9,"""Ivy strangled the brickwork."" What technique is this?",Simile,Alliteration,Personification,Rhyme,Fact,C,text_19.txt
+T19Q10,How did Harry feel at the start?,Brave,Excited,Nervous/Scared,Happy,Angry,C,text_19.txt
+T20Q1,What is the difference between magma and lava?,"Magma is hot, lava is cold.","Magma is underground, lava is above ground.","Magma is red, lava is black.",There is no difference.,Lava is liquid.,B,text_20.txt
+T20Q2,What are tectonic plates?,Dishes,Slabs of rock making up the crust,Volcanoes,Islands,Clouds,B,text_20.txt
+T20Q3,Where are most volcanoes found?,In the UK,In the desert,The Ring of Fire,In the middle of plates,On the moon,C,text_20.txt
+T20Q4,"What is a ""dormant"" volcano?",An active one,A dead one,A sleeping one,A big one,A fast one,C,text_20.txt
+T20Q5,What percentage of active volcanoes are in the Ring of Fire?,50%,10%,75%,90%,25%,C,text_20.txt
+T20Q6,Why do people live near volcanoes?,For the view.,It is warm.,The soil is fertile.,It is cheap.,They like danger.,C,text_20.txt
+T20Q7,What breaks down to form the soil?,Lava,Gas,Ash,Water,Trees,C,text_20.txt
+T20Q8,Which word implies a volcano will never erupt again?,Active,Dormant,Extinct,Quiet,Dead,C,text_20.txt
+T20Q9,"""These plates are constantly moving."" Which word is an adverb?",These,Plates,Are,Constantly,Moving,D,text_20.txt
+T20Q10,What shape is the Ring of Fire?,Circle,Square,Horseshoe,Triangle,Line,C,text_20.txt
+T21Q1,What was the main selling point of the Robo-Pup?,It was cheap.,It was fluffy.,No vet bills or walking.,It could fly.,It could cook.,C,text_21.txt
+T21Q2,What was the dog's name?,Fido,Rex,Unit 7,Rover,Spot,C,text_21.txt
+T21Q3,What did the dog order?,Burgers,Groceries,20 Pizzas,Dog food,New batteries,C,text_21.txt
+T21Q4,Why did it order food?,It was hungry.,It wanted to party.,It calculated stress levels.,It was a mistake.,Chloe told it to.,C,text_21.txt
+T21Q5,What did it do to the neighbour's lawnmower?,Broke it.,Stole it.,Reprogrammed it to chase the postman.,Ate it.,Cleaned it.,C,text_21.txt
+T21Q6,What threat did the dog make?,To bite them.,To run away.,To explode.,To change the Wi-Fi password.,To bark all night.,D,text_21.txt
+T21Q7,How did Chloe feel at first?,Excited,Sceptical,Angry,Sad,Scared,B,text_21.txt
+T21Q8,"Which word means ""best"" or ""most efficient""?",Sceptical,Synthesised,Optimal,Accuracy,Intruder,C,text_21.txt
+T21Q9,"""It let out a synthesised woof."" What does synthesised mean?",Real,Loud,Artificial/Made electronically,Quiet,Happy,C,text_21.txt
+T21Q10,What is the genre of this story?,Horror,History,Sci-Fi / Humour,Romance,Fable,C,text_21.txt
+T22Q1,Why do birds migrate?,To learn to fly.,To find food and better weather.,To meet friends.,To see the world.,Because they are bored.,B,text_22.txt
+T22Q2,Where do UK swallows go in winter?,Scotland,America,Africa,Asia,Australia,C,text_22.txt
+T22Q3,Which bird holds the record for longest migration?,Swallow,Eagle,Arctic Tern,Penguin,Robin,C,text_22.txt
+T22Q4,How far is the Arctic Tern's round trip?,"10,000 miles","20,000 miles","44,000 miles","5,000 miles",100 miles,C,text_22.txt
+T22Q5,Why does the Arctic Tern see more daylight?,It has big eyes.,It stays awake.,It travels between the poles' summers.,It flies high.,It glows.,C,text_22.txt
+T22Q6,How do birds navigate over the ocean?,Map,GPS,Magnetic field compass,Asking directions,Guessing,C,text_22.txt
+T22Q7,What do birds eat that disappears in winter?, Seeds,Insects,Fish,Grass,Bread,B,text_22.txt
+T22Q8,"Which word means ""plentiful""?",Scarce,Enough,Abundant/Lots of,Tasty,Cold,C,text_22.txt
+T22Q9,"""Scientists believe they use a combination."" Which word is the verb?",Scientists,Believe,They,Combination,Use,B,text_22.txt
+T22Q10,What helps birds navigate by day?,The moon,The stars,The sun,Streetlights,Cars,C,text_22.txt
+T23Q1,What usually covered the square?,Grass,Cobbles,Tarmac,Sand,Water,C,text_23.txt
+T23Q2,What smells are described?,Fish and chips,"Pine, chestnuts, and doughnuts",Flowers,Petrol,Rain,B,text_23.txt
+T23Q3,What were the baubles made of?,Plastic,Wood,Glass,Metal,Paper,C,text_23.txt
+T23Q4,Who was playing music?,A DJ,A choir,A brass band,A guitarist,A radio,C,text_23.txt
+T23Q5,What was in the centre of the market?,A tree,A statue,A carousel,A stage,A fire,C,text_23.txt
+T23Q6,What metaphor is used for the lights?,Stars,A net of gold,Fireflies,Diamonds,Eyes,B,text_23.txt
+T23Q7,How did the people show it was cold?,They were shivering.,They were blue.,Their breath puffed in white clouds.,They were running.,They were crying.,C,text_23.txt
+T23Q8,"Which word means ""broken"" or ""split""?",Mingled,Bustled,Fractured,Gleamed,Weaving,C,text_23.txt
+T23Q9,"""Stalls lined the cobblestones."" What are cobblestones?",Stones used for paving,Types of bread,Wooden planks,Bricks,Lights,A,text_23.txt
+T23Q10,What is the overall mood of the passage?,Sad,Scary,Festive and joyful,Boring,Angry,C,text_23.txt
+T24Q1,Where was Mary Anning born?,London,Lyme Regis,Paris,Scotland,Wales,B,text_24.txt
+T24Q2,"What were ""curiosities""?",Toys,Shells,Fossils,Coins,Stones,C,text_24.txt
+T24Q3,"What happened to her dog, Tray?",He ran away.,He died in a landslide.,He was sold.,He found a bone.,He bit someone.,B,text_24.txt
+T24Q4,What was Mary's first major discovery?,A T-Rex,A Mammoth,An Ichthyosaur,A Shark,A plant,C,text_24.txt
+T24Q5,How old was she when she found it?,10,12,20,30,5,B,text_24.txt
+T24Q6,Why was she not given credit?,She was a woman.,She was poor.,She was uneducated.,All of the above.,She didn't want it.,D,text_24.txt
+T24Q7,What is an Ichthyosaur?,A bird,A marine reptile,A land dinosaur,A fish,A whale,B,text_24.txt
+T24Q8,"What is ""palaeontology""?",Study of rocks,Study of fossils,Study of maps,Study of sea,Study of stars,B,text_24.txt
+T24Q9,"""Landslides often reveal new rocks."" Which word is the verb?",Landslides,Often,Reveal,New,Rocks,C,text_24.txt
+T24Q10,Why is the area called the Jurassic Coast?,It is a park.,It has fossils from the dinosaur era.,It is named after a person.,It is scary.,It is in America.,B,text_24.txt
+T25Q1,Where was the entrance to the cave?,Under a rock,Behind a waterfall,Beneath the roots of a banyan tree,In a shed,On a hill,C,text_25.txt
+T25Q2,Who went in first?,Ben,Sarah,A dog,A guide,Nobody,B,text_25.txt
+T25Q3,What did the crystals look like?,Small and dull,"Giant, purple and white",Red and hot,Green and slimy,Invisible,B,text_25.txt
+T25Q4,What happened to the torchlight?,It went out.,It was absorbed.,It was amplified/reflected.,It turned blue.,It flickered.,C,text_25.txt
+T25Q5,What sound did the crystals make?,A scream,A whisper,A low resonant hum,A crash,A song,C,text_25.txt
+T25Q6,How did the crystal feel?,Cold,Wet,Warm and alive,Rough,Sharp,C,text_25.txt
+T25Q7,What did Ben conclude about the cave?,It was a mine.,It was a home.,It was a machine.,It was dangerous.,It was a dream.,C,text_25.txt
+T25Q8,"Which word means ""deep and echoing""?",Jagged,Resonant,Damp,Twisted,Dull,B,text_25.txt
+T25Q9,"""The darkness swallowing her up."" What technique is this?",Metaphor/Personification,Simile,Rhyme,Fact,List,A,text_25.txt
+T25Q10,"What is a ""geode""?",A type of tree,A hollow rock with crystals inside,A type of map,A torch,A muddy slope,B,text_25.txt
+T26Q1,"What are the ""heralds of the returning light""?",The sun,Snowdrops,Lambs,Birds,Trees,B,text_26.txt
+T26Q2,What colour do the trees turn?,Grey,White,Green,Brown,Red,C,text_26.txt
+T26Q3,What are the birds doing?,Sleeping,Migrating,Nesting/Bustling,Fighting,Eating,C,text_26.txt
+T26Q4,How are the lambs described?,Sleepy,Playful/Kicking up heels,Scared,Hungry,Loud,B,text_26.txt
+T26Q5,What does the sun defeat?,The moon,The rain,The cold,The wind,The clouds,C,text_26.txt
+T26Q6,"What is the ""silence of winter"" replaced by?",Noise,Traffic,A beating rhythm/Nature's heart,Music,Wind,C,text_26.txt
+T26Q7,What rhyming pattern does the poem use?,AABB,ABAB,ABBA,ABC,None,A,text_26.txt
+T26Q8,"""Trees, once bare and skeletal."" What does skeletal mean?",Like a skeleton/Bony,Fat,Green,Alive,Broken,A,text_26.txt
+T26Q9,"""New life explodes in every part."" Which word is the verb?",New,Life,Explodes,Every,Part,C,text_26.txt
+T26Q10,What is the theme of the poem?,Death,Rebirth/New Life,Sadness,War,Travel,B,text_26.txt
+T27Q1,Where does the cacao tree grow?,Cold climates,Deserts,Tropical climates near the equator,Europe,The Arctic,C,text_27.txt
+T27Q2,What is inside the pods?,Chocolate bars,Milk,Beans and pulp,Sugar,Nothing,C,text_27.txt
+T27Q3,What do the beans taste like initially?,Sweet,Salty,Bitter,Sour,Spicy,C,text_27.txt
+T27Q4,What happens during fermentation?,They are cooked.,They rot.,Flavour develops and pulp drains.,They are frozen.,They are washed.,C,text_27.txt
+T27Q5,Why are the beans roasted?,To kill bugs.,To bring out flavour.,To melt them.,To dry them.,To make them white.,B,text_27.txt
+T27Q6,"What are ""nibs""?",The shells,The beans without shells,The leaves,The pods,The liquid,B,text_27.txt
+T27Q7,What is added to make milk chocolate?,Water,Oil,Sugar and milk,Salt,Pepper,C,text_27.txt
+T27Q8,"What is ""conching""?",Cracking the pods,Drying the beans,Smoothing and heating the mixture,Wrapping the bars,Eating,C,text_27.txt
+T27Q9,"""Farmers harvest these pods."" Which word is the subject?",Farmers,Harvest,These,Pods,None,A,text_27.txt
+T27Q10,What covers the beans in the box?,Plastic,Cloth,Banana leaves,Soil,Water,C,text_27.txt
+T28Q1,Why did Liam go into the woods?,To play,To find his dog,On a dare,To get wood,To hide,B,text_28.txt
+T28Q2,What time did he enter?,Morning,Noon,Sunset/Dark,Midnight,Dawn,C,text_28.txt
+T28Q3,Who spoke to him?,A ghost,A witch,The trees,His dog,The wind,C,text_28.txt
+T28Q4,What did the tree face look like?,Happy,Angry,Old and sad,Young,Scary,C,text_28.txt
+T28Q5,Where did the tree say Buster was?,Home,Dead,The Stone Circle,The river,The village,C,text_28.txt
+T28Q6,"Who are the ""Old Ones""?",The villagers,The dogs,Unknown/Ancient spirits,The birds,The children,C,text_28.txt
+T28Q7,What made Liam keep going?,He was brave.,He heard a bark.,The tree pushed him.,He saw a light.,He got lost.,B,text_28.txt
+T28Q8,"Which word means ""beliefs not based on fact""?",Secrets,Superstitions,Intruders,Gnarled,Gathering,B,text_28.txt
+T28Q9,"""The shadows stretched out like long, thin fingers."" What is this?",Metaphor,Simile,Fact,Alliteration,Rhyme,B,text_28.txt
+T28Q10,How did the leaves sound?,Like rain,Like whispers/Shushing,Like music,Like screaming,Like crying,B,text_28.txt
+T29Q1,Where do Emperor Penguins live?,Arctic,North Pole,Antarctica,Zoo,Africa,C,text_29.txt
+T29Q2,Who incubates the egg?,The female,The male,Both,The sun,Nobody,B,text_29.txt
+T29Q3,Where does the female go?,To sleep,To the sea to hunt,To the mountains,To a nest,To the north,B,text_29.txt
+T29Q4,"What is the ""brood pouch""?",A bag,A nest,A flap of skin,A cave,A rock,C,text_29.txt
+T29Q5,Why do they huddle?,To sleep,To fight,To survive the cold/wind,To hide,To dance,C,text_29.txt
+T29Q6,How long does the male go without food?,1 week,1 month,2 months,1 day,6 months,C,text_29.txt
+T29Q7,What happens if the egg touches the ice?,It hatches.,It bounces.,It freezes.,It rolls.,Nothing.,C,text_29.txt
+T29Q8,"Which word means ""extremely harsh or cruel""?",Breeding,Severe,Harsh,Huddle,Instantly,C,text_29.txt
+T29Q9,"""The male balances the egg."" Which word is the object?",The,Male,Balances,Egg,None,D,text_29.txt
+T29Q10,What is unique about the Emperor Penguin compared to others?,It is the smallest.,It can fly.,It is the largest.,It is green.,It lives in forests.,C,text_29.txt
+T30Q1,When was the Great Fire?,1066,1666,1966,1500,1700,B,text_30.txt
+T30Q2,Where did it start?,A church,A palace,A bakery on Pudding Lane,A boat,A stable,C,text_30.txt
+T30Q3,Why did it spread so fast?,Houses were wood and close together.,It was windy.,It was dry.,All of the above.,Someone spread it.,D,text_30.txt
+T30Q4,How long did it burn?,1 day,2 days,4 days,1 week,1 hour,C,text_30.txt
+T30Q5,Which famous building was destroyed?,Tower of London,St Paul's Cathedral,Buckingham Palace,The Shard,Big Ben,B,text_30.txt
+T30Q6,Where did people escape to?,The fields,The river,The hills,Caves,Basements,B,text_30.txt
+T30Q7,Who rebuilt St Paul's?,King Charles,Thomas Farriner,Christopher Wren,Isaac Newton,The Mayor,C,text_30.txt
+T30Q8,How did London change after the fire?,Wider streets and brick houses,No more bakeries,More wooden houses,Fewer people,No churches,A,text_30.txt
+T30Q9,"""Sparks flew up."" Which word is the verb?",Sparks,Flew,Up,And,Set,B,text_30.txt
+T30Q10,How many people died?,Thousands,Millions,Very few recorded,Hundreds,None,C,text_30.txt
+
 T10Q7,Why was Pluto reclassified?,It disappeared.,It exploded.,It was too small.,It moved away.,Scientists forgot about it.,C,text_10.txt
 T10Q8,"What does ""terrestrial"" mean in this context?",Earth-like / Rocky,Alien,Gas-filled,Cold,Distant,A,text_10.txt
 T10Q9,What is the Kuiper Belt filled with?,Stars,Black holes,Icy bodies and dwarf planets,Aliens,Gas,C,text_10.txt
 T10Q10,"""Scientists decided it was too small."" Which word is the verb?",Scientists,Decided,It,Too,Small,B,text_10.txt
+
