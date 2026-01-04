@@ -701,7 +701,7 @@ Story_58_BirdSpotting,2,Dad had,his,Binoculars,ready.,C,Capitalization error in 
 Story_58_BirdSpotting,3,Be very,still',he,whispered.,A,"Missing punctuation in Part A: 'still'' should be 'still,'."
 Story_58_BirdSpotting,4,A small,bird,"flew,",down.,C,"Extra comma inserted in Part C: 'flew,'."
 Story_58_BirdSpotting,5,It had,a red,chest,and beak,D,Missing full stop in Part D: 'beak' should be 'beak.'.
-Story_58_BirdSpotting,6,It is,a robin',said,Dad.,B,"Missing comma in Part B: 'robin'' should be 'robin,'."
+Story_58_BirdSpotting,6,'It is,a robin',said,Dad.,B,"Missing comma in Part B: 'robin'' should be 'robin,'."
 Story_58_BirdSpotting,7,It ate,a worm,from the,ground.,N,No error.
 Story_58_BirdSpotting,8,Then it,flew,back to,it's nest.,D,Apostrophe error in Part D: 'it's' should be 'its'.
 Story_58_BirdSpotting,9,we saw,three,blue,eggs.,A,Capitalization error in Part A: 'we' should be 'We'.
@@ -2306,4 +2306,5 @@ Story_160_NewBoy,8,Well done',I shouted,giving,a high five.,A,Missing exclamatio
 Story_160_NewBoy,9,Tom smiled,at me,"happily,",then.,C,"Extra comma inserted in Part C: 'happily,'."
 Story_160_NewBoy,10,We are,friends,now,I think,D,Missing full stop in Part D: 'think' should be 'think.'.
 Story_160_NewBoy,11,He sits,with us,at,lunch.,N,No error.
+
 Story_160_NewBoy,12,School is,More fun,with,him.,B,Capitalization error in Part B: 'More' should be 'more'.
