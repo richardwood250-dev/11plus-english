@@ -829,7 +829,7 @@ Spelling_480,You need good,disipline to join,the army and,succeed.,A,Error: 'dis
 Spelling_481,Please do not,disturb the class,while they are,working.,N,No error.,,,8,52,17
 Spelling_482,Please do not,embarass me in,front of my,friends.,B,Error: 'embarass' should be 'embarrass' (rr).,,,8,46,14
 Spelling_483,The roman emporer,commanded a vast,army of loyal,soldiers.,A,Error: 'emporer' should be 'emperor' (or).,,,9,55,17
-Spelling_484,She needs encouragment,to perform on,stage in front,of people.,B,Error: 'encouragment' should be 'encouragement' (gem).,,,10,59,22
+Spelling_484,She needs encouragment,to perform on,stage in front,of people.,A,Error: 'encouragment' should be 'encouragement' (gem).,,,10,59,22
 Spelling_485,The enemy soldiers,retreated back to,their camp at,dawn.,N,No error.,,,5,53,18
 Spelling_486,Please ensure that,the door is,locked before you,leave.,N,No error.,,,6,52,18
 Spelling_487,There was live,entertinment at the,party all night,long.,B,Error: 'entertinment' should be 'entertainment' (tain).,,,5,53,19
@@ -1158,7 +1158,7 @@ Spelling_809,Eighty people came,to the concert,in the park,yesterday.,N,No error
 Spelling_810,You can have,either the cake,or the fruit,salad.,N,No error.,,,6,45,15
 Spelling_811,Please do not,embarass me by,singing loudly in,public.,B,Error: 'embarass' should be 'embarrass' (rr).,,,7,51,17
 Spelling_812,The roman emporer,wore a purple,toga and a,gold crown.,A,Error: 'emporer' should be 'emperor' (ror).,,,10,51,17
-Spelling_813,He needs encouragment,to keep trying,when things get,difficult.,B,Error: 'encouragment' should be 'encouragement' (gem).,,,10,60,21
+Spelling_813,He needs encouragment,to keep trying,when things get,difficult.,A,Error: 'encouragment' should be 'encouragement' (gem).,,,10,60,21
 Spelling_814,The enemy troops,surrendered after a,long and hard,battle.,N,No error.,,,7,55,19
 Spelling_815,Please ensure that,all the windows,are closed before,leaving.,N,No error.,,,8,58,18
 Spelling_816,The entertinment at,the party included,a magician and,clown.,A,Error: 'entertinment' should be 'entertainment' (tain).,,,6,57,19
@@ -1750,3 +1750,4 @@ spelling_2798b,He went to,sleep in his,comfortable bed,at nite.,D,"'nite' should
 spelling_2799,The red bus,stopped at the,bus stop on,time.,D,"'time' is correct. Error needed. 'tyme'."
 spelling_2799b,The red bus,stopped at the,bus stop on,tyme.,D,"'tyme' should be spelt 'time'."
 spelling_2800,She read a,story to her,little sister,at bedtyme.,D,"'bedtyme' should be spelt 'bedtime'."
+
