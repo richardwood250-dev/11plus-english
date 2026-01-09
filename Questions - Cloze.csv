@@ -1,5 +1,5 @@
 Passage Title,Question ID,Sentence Context,Option A,Option B,Option C,Option D,Option E,Correct Answer
-The Volcano,1,Mount Vesuvius was a dormant (1) volcano.,sleep,slept,dormancy,dormant,doormat,D
+The Volcano,1,Mount Vesuvius was a (1) volcano.,sleep,slept,dormancy,dormant,doormat,D
 The Volcano,2,The villagers lived (2) at its foot.,peace,peacefully,peaceful,peacemaker,piece,B
 The Volcano,3,One day, smoke began to (3).,rose,risen,rising,rises,rise,E
 The Volcano,4,The ground shook (4).,violent,violence,violins,violate,violently,E
@@ -719,3 +719,4 @@ The Desert Island,9,He met a man he named (9).,Friday,Fridays,Friday's,Fri,Fried
 The Desert Island,10,They became great (10).,friend,friends,friendly,friendship,befriend,B
 The Desert Island,11,Eventually, a ship arrived to (11) them.,rescue,rescued,rescuing,rescues,rescuer,A
 The Desert Island,12,He was happy to return to (12).,civil,civility,civilization,civilize,civilized,C
+
