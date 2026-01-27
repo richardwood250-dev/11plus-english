@@ -1,0 +1,301 @@
+Ref,Question,OptionA,OptionB,OptionC,OptionD,OptionE,Correct Answer,Type,
+T1Q1,What is the weather like at the beginning of the passage?,Stormy,Sunny,Foggy,Snowing,Raining,Foggy,Retrieval,text_1.txt
+T1Q2,What is Arthur’s 'job' described as?,Sailor,Student,Dock worker,Mudlark,Watchmaker,Mudlark,Retrieval,text_1.txt
+T1Q3,What advice did Arthur’s father give him?,Stay away from water,"Keep eyes down, mouth shut",Look for gold,Run from strangers,Never sell findings,"Keep eyes down, mouth shut",Retrieval,text_1.txt
+T1Q4,What object did Arthur find?,Gold coin,Scrap iron,Button,Pocket watch,Ring,Pocket watch,Retrieval,text_1.txt
+T1Q5,Where did Arthur hide the object?,Under a log,In his boot,In his pocket,Behind a rock,In the river,In his pocket,Retrieval,text_1.txt
+T1Q6,Closest meaning to 'obscured'?,Highlighted,Hid,Decorated,Destroyed,Lifted,Hid,Word Meaning,text_1.txt
+T1Q7,Closest meaning to 'threadbare'?,Expensive,Thick,Waterproof,Worn and thin,Colourful,Worn and thin,Word Meaning,text_1.txt
+T1Q8,Closest meaning to 'scanned'?,Searched closely,Glanced quickly,Ignored,Walked over,Stared blankly,Searched closely,Word Meaning,text_1.txt
+T1Q9,Closest meaning to 'spiked'?,Disappeared,Hurt,Rose suddenly,Felt warm,Dripped,Rose suddenly,Word Meaning,text_1.txt
+T1Q10,Closest meaning to 'loomed'?,Shouted,Appeared threateningly,Ran,Waved,Sat,Appeared threateningly,Word Meaning,text_1.txt
+T1Q11,Why is the tide described as Arthur's 'clock'?,He found a clock,He works when tide is out,He wears a watch,River flows fast,He has a curfew,He works when tide is out,Inference,text_1.txt
+T1Q12,Why mention other boys were asleep?,Arthur is lazy,It is midnight,Contrast his hardship,Streets are empty,Arthur hates school,Contrast his hardship,Inference,text_1.txt
+T1Q13,Why did Arthur freeze at the sound of the boot?,He was cold,To hear better,Fear of being caught,Ideally his father,Stuck in mud,Fear of being caught,Inference,text_1.txt
+T1Q14,Why does he think the man is dangerous?,Man is shouting,Man is in uniform,Cane looks like weapon,Man asks for time,Man is running,Cane looks like weapon,Inference,text_1.txt
+T1Q15,Rich men did not walk in the mud' suggests the watch was:,Stolen or dropped in struggle,Fake,Broken,A sailor's,A gift,Stolen or dropped in struggle,Inference,text_1.txt
+T1Q16,The mud sucked at his boots.' 'Sucked' is a:,Noun,Adjective,Adverb,Verb,Preposition,Verb,Word Type,text_1.txt
+T1Q17,It was a tall man.' 'Tall' is a:,Adjective,Adverb,Verb,Pronoun,Noun,Adjective,Word Type,text_1.txt
+T1Q18,He fell to his knees.' 'To' is a:,Conjunction,Preposition,Adjective,Noun,Verb,Preposition,Word Type,text_1.txt
+T1Q19,Panic spiked in his chest.' 'Panic' is a:,Proper Noun,Collective Noun,Abstract Noun,Concrete Noun,Compound Noun,Abstract Noun,Word Type,text_1.txt
+T1Q20,He did not look back.' 'Back' functions as:,Adjective,Noun,Verb,Adverb,Conjunction,Adverb,Word Type,text_1.txt
+T2Q1,What two buildings was the shop between?,Bakery and Bank,School and Library,Butcher and Baker,Bank and Post Office,Bakery and Park,Bakery and Bank,Retrieval,text_2.txt
+T2Q2,What detail shows the shop was old?,New sign,Electric bell,Peeling paint,Clean windows,Bright lights,Peeling paint,Retrieval,text_2.txt
+T2Q3,What was Mr. Aris looking at when Leo entered?,A book,Tiny cogs,A customer,The window,His watch,Tiny cogs,Retrieval,text_2.txt
+T2Q4,How much time does the town hall clock lose?,1 minute,4 seconds a day,1 hour,10 seconds,It is perfect,4 seconds a day,Retrieval,text_2.txt
+T2Q5,What did Leo put on when he went behind the counter?,Hat,Gloves,Apron,Glasses,Coat,Apron,Retrieval,text_2.txt
+T2Q6,Closest meaning to 'imposing'?,Impressive/Large,Hidden,Welcoming,Crumbling,Colourful,Impressive/Large,Word Meaning,text_2.txt
+T2Q7,Closest meaning to 'linger'?,Stop immediately,Stay in place,Disappear,Rush,Fall,Stay in place,Word Meaning,text_2.txt
+T2Q8,Closest meaning to 'abomination'?,Miracle,Disgrace/Horror,Machine,Invention,Joke,Disgrace/Horror,Word Meaning,text_2.txt
+T2Q9,Closest meaning to 'donning'?,Removing,Buying,Washing,Putting on,Folding,Putting on,Word Meaning,text_2.txt
+T2Q10,Closest meaning to 'scoffed'?,Laughed mockingly,Cried,Shouted,Whispered,Agreed,Laughed mockingly,Word Meaning,text_2.txt
+T2Q11,Standing like soldiers.' This is a:,Metaphor,Simile,Personification,Alliteration,Rhyme,Simile,Inference,text_2.txt
+T2Q12,A symphony of ticking.' This is a:,Simile,Metaphor,Verb,Adjective,Noun,Metaphor,Inference,text_2.txt
+T2Q13,Why does Mr. Aris dislike the town hall clock?,It is too loud,It is ugly,It is inaccurate,It is too big,He didn't make it,It is inaccurate,Inference,text_2.txt
+T2Q14,Why did Leo flush?,He was hot,He was embarrassed,He was angry,He was sick,He was running,He was embarrassed,Inference,text_2.txt
+T2Q15,Why is a slow clock called a 'liar'?,It speaks,It gives false information,It steals time,It is broken,It is quiet,It gives false information,Inference,text_2.txt
+T2Q16,...composed entirely of sharp angles.' 'Sharp' is a:,Noun,Verb,Adjective,Adverb,Pronoun,Adjective,Word Type,text_2.txt
+T2Q17,He pushed the door.' 'Pushed' is a:,Noun,Adjective,Verb,Adverb,Preposition,Verb,Word Type,text_2.txt
+T2Q18,...magnified by his spectacles.' 'Spectacles' is a:,Common Noun,Proper Noun,Verb,Adjective,Adverb,Common Noun,Word Type,text_2.txt
+T2Q19,...making him look like a startled owl.' 'Him' is a:,Noun,Adjective,Verb,Pronoun,Adverb,Pronoun,Word Type,text_2.txt
+T2Q20,Time waits for no man.' 'Waits' is in which tense?,Past,Present,Future,Conditional,Perfect,Present,Word Type,text_2.txt
+T3Q1,At what depth does the Twilight Zone begin?,100m,200m,1000m,500m,10m,200m,Retrieval,text_3.txt
+T3Q2,Why are there no plants in the Twilight Zone?,Too cold,Too much pressure,No light for photosynthesis,Eaten by fish,Water is toxic,No light for photosynthesis,Retrieval,text_3.txt
+T3Q3,What is 'Marine Snow'?,Ice,Dead plankton/waste,White rocks,A type of fish,Salt crystals,Dead plankton/waste,Retrieval,text_3.txt
+T3Q4,How does the Anglerfish catch prey?,Chasing them,Using a glowing lure,Hiding in rocks,Using poison,Swimming fast,Using a glowing lure,Retrieval,text_3.txt
+T3Q5,What do tube worms near volcanic vents survive on?,Sunlight,Plankton,Chemicals,Fish,Seaweed,Chemicals,Retrieval,text_3.txt
+T3Q6,Closest meaning to 'fraction'?,Whole,Large amount,Small part,Half,Number,Small part,Word Meaning,text_3.txt
+T3Q7,Closest meaning to 'adapted'?,Died,Changed to suit environment,Moved away,Stayed same,Grown big,Changed to suit environment,Word Meaning,text_3.txt
+T3Q8,Closest meaning to 'scarce'?,Plentiful,Tasty,Rare,Heavy,Hot,Rare,Word Meaning,text_3.txt
+T3Q9,Closest meaning to 'thrive'?,Survive/Grow well,Die,Sleep,Shrink,Hide,Survive/Grow well,Word Meaning,text_3.txt
+T3Q10,Closest meaning to 'eternal'?,Short,Bright,Never-ending,Cold,Deep,Never-ending,Word Meaning,text_3.txt
+T3Q11,Why do animals have transparent bodies?,To look pretty,To absorb light,To hide (camouflage),To swim faster,They have no skin,To hide (camouflage),Inference,text_3.txt
+T3Q12,Why do deep-sea animals have slow metabolisms?,Water is cold,Food is rare,They are lazy,Too much pressure,They sleep a lot,Food is rare,Inference,text_3.txt
+T3Q13,What is the main purpose of bioluminescence here?,To read,To warm up,Attract prey/mates,Scare sharks,Look like stars,Attract prey/mates,Inference,text_3.txt
+T3Q14,The phrase 'crushing pressure' suggests the deep ocean is:,Relaxing,Dangerous,Empty,Light,Warm,Dangerous,Inference,text_3.txt
+T3Q15,Why is the discovery of life near volcanic vents surprising?,It is too hot,There is no sunlight,It is too shallow,There is no water,It is too loud,There is no sunlight,Inference,text_3.txt
+T3Q16,...dolphins play.' 'Dolphins' is a:,Adjective,Verb,Common Noun,Proper Noun,Adverb,Common Noun,Word Type,text_3.txt
+T3Q17,...makes up only a tiny fraction.' 'Tiny' is an:,Adverb,Adjective,Noun,Verb,Pronoun,Adjective,Word Type,text_3.txt
+T3Q18,"...below 1,000 metres.' 'Below' is a:",Noun,Verb,Adjective,Preposition,Conjunction,Preposition,Word Type,text_3.txt
+T3Q19,...snapped up by the Anglerfish.' 'Snapped' is a:,Noun,Adjective,Verb,Pronoun,Adverb,Verb,Word Type,text_3.txt
+T3Q20,...curious fish are attracted.' 'Curious' describes:,The water,The light,The fish,The anglerfish,The dark,The fish,Word Type,text_3.txt
+T4Q1,How long had the house stood empty?,5 years,10 years,20 years,50 years,100 years,10 years,Retrieval,text_4.txt
+T4Q2,What did the villagers claim to see in the attic?,A ghost,A face,A light,A bat,A fire,A light,Retrieval,text_4.txt
+T4Q3,What day did Tom arrive?,Monday,Tuesday,Wednesday,Friday,Sunday,Tuesday,Retrieval,text_4.txt
+T4Q4,What sound did Tom hear from the floor above?,Footsteps,Screaming,Scratching,Knocking,Whistling,Scratching,Retrieval,text_4.txt
+T4Q5,What was strange about the door at the end of the corridor?,It was locked,It was broken,It was invisible,It was painted fresh red,It was glowing,It was painted fresh red,Retrieval,text_4.txt
+T4Q6,Closest meaning to 'renovate'?,Destroy,Repair/Improve,Sell,Buy,Paint,Repair/Improve,Word Meaning,text_4.txt
+T4Q7,Closest meaning to 'protest' in paragraph 2?,Silence,Agreement,Complaint/Resistance,Joy,Fear,Complaint/Resistance,Word Meaning,text_4.txt
+T4Q8,Closest meaning to 'overpowering'?,Weak,Pleasant,Very strong,Silent,Sweet,Very strong,Word Meaning,text_4.txt
+T4Q9,Closest meaning to 'decayed'?,New,Rotten/Old,Clean,Bright,Empty,Rotten/Old,Word Meaning,text_4.txt
+T4Q10,Closest meaning to 'hushed'?,Loud,Quiet/Whispered,Angry,Fast,Happy,Quiet/Whispered,Word Meaning,text_4.txt
+T4Q11,Why is the house described as having 'blind eyes'?,The owner was blind,The windows were boarded/empty,It had no windows,It was dark outside,It was watching Tom,The windows were boarded/empty,Inference,text_4.txt
+T4Q12,Why did Tom buy the house?,To live in forever,To make a profit,To hunt ghosts,To hide,It was a gift,To make a profit,Inference,text_4.txt
+T4Q13,What does 'bought... for a song' mean?,Bought cheaply,Bought with music,Bought expensively,Stole it,Traded for a song,Bought cheaply,Inference,text_4.txt
+T4Q14,Why did Tom tell himself it was 'Just mice'?,He saw a mouse,He likes mice,To comfort/calm himself,He wanted a pet,He was hungry,To comfort/calm himself,Inference,text_4.txt
+T4Q15,What suggests the room at the end is supernatural?,It is dusty,The fire is lit and paint is fresh,The window is broken,There is a cat,The door is wood,The fire is lit and paint is fresh,Inference,text_4.txt
+T4Q16,...windows staring out.' 'Staring' is a:,Noun,Adjective,Verb,Adverb,Pronoun,Verb,Word Type,text_4.txt
+T4Q17,...thick with dust.' 'Thick' is an:,Adverb,Noun,Adjective,Verb,Preposition,Adjective,Word Type,text_4.txt
+T4Q18,He arrived on a Tuesday.' 'Tuesday' is a:,Common Noun,Proper Noun,Verb,Adjective,Adverb,Proper Noun,Word Type,text_4.txt
+T4Q19,...masking the musty scent.' 'Masking' means:,Creating,Hiding,Smelling,Painting,Buying,Hiding,Word Type,text_4.txt
+T4Q20,He reached out a hand.' 'Hand' is a:,Abstract Noun,Concrete Noun,Verb,Adjective,Adverb,Concrete Noun,Word Type,text_4.txt
+T5Q1,Why do swallows migrate?,Too hot,To find insects/food,To lay eggs,To meet other birds,To sleep,To find insects/food,Retrieval,text_5.txt
+T5Q2,Where do the birds fly to?,North America,Asia,Africa,Australia,The Arctic,Africa,Retrieval,text_5.txt
+T5Q3,What major desert must they cross?,Gobi,Sahara,Kalahari,Mojave,Arabian,Sahara,Retrieval,text_5.txt
+T5Q4,What happens if a land bird stops over the sea?,It floats,It sleeps,It drowns,It catches fish,It flies higher,It drowns,Retrieval,text_5.txt
+T5Q5,What do robins eat in winter?,Insects,Fish,Seeds and berries,Grass,Meat,Seeds and berries,Retrieval,text_5.txt
+T5Q6,Closest meaning to 'fraught with'?,Full of,Empty of,Easy,Quick,Safe,Full of,Word Meaning,text_5.txt
+T5Q7,Closest meaning to 'plentiful'?,Scarce,Abundant/Many,Tasty,Dry,Cold,Abundant/Many,Word Meaning,text_5.txt
+T5Q8,Closest meaning to 'navigate'?,Fly fast,Find a way/route,Sleep,Eat,Swim,Find a way/route,Word Meaning,text_5.txt
+T5Q9,Closest meaning to 'plumage'?,Beak,Claws,Feathers,Wings,Eyes,Feathers,Word Meaning,text_5.txt
+T5Q10,Closest meaning to 'strategy'?,Mistake,Plan,Accident,Flight,Game,Plan,Word Meaning,text_5.txt
+T5Q11,Why is the Sahara Desert dangerous for birds?,Too many predators,No water/rest,Too cold,Too many trees,It is too small,No water/rest,Inference,text_5.txt
+T5Q12,Why do birds store fat before leaving?,To stay warm,To look big,For fuel/energy,To float,To scare predators,For fuel/energy,Inference,text_5.txt
+T5Q13,How is a bird's navigation like an ancient sailor's?,Use maps,Use GPS,Use sun and stars,Ask for directions,Use a compass,Use sun and stars,Inference,text_5.txt
+T5Q14,Why do robins NOT migrate?,They are lazy,They can't fly,They have adapted to winter food,They don't like Africa,They are too big,They have adapted to winter food,Inference,text_5.txt
+T5Q15,The author thinks migration is:,A mistake,A miracle/amazing,Boring,Easy,Unnecessary,A miracle/amazing,Inference,text_5.txt
+T5Q16,...weighing less than a coin.' 'Coin' is a:,Verb,Adjective,Common Noun,Proper Noun,Adverb,Common Noun,Word Type,text_5.txt
+T5Q17,...harsh conditions.' 'Harsh' is an:,Adverb,Noun,Adjective,Verb,Pronoun,Adjective,Word Type,text_5.txt
+T5Q18,Scientists have long puzzled.' 'Puzzled' is a:,Noun,Verb,Adjective,Adverb,Preposition,Verb,Word Type,text_5.txt
+T5Q19,...internal compass.' 'Internal' describes:,Where it is (inside),The colour,The size,The speed,The bird,Where it is (inside),Word Type,text_5.txt
+T5Q20,...tiny swallow.' 'Tiny' is an:,Noun,Verb,Adjective,Adverb,Pronoun,Adjective,Word Type,text_5.txt
+T6Q1,Where was the village located?,In a valley,On High Cliffs,In a forest,By a river,In a desert,On High Cliffs,Retrieval,text_6.txt
+T6Q2,What did the wind steal?,Money,Washing/Clothes,Food,Animals,Kites,Washing/Clothes,Retrieval,text_6.txt
+T6Q3,What did the villagers call Kael's machine?,The Windmill,The Monster,Kael's Folly,The Giant Bird,The Grinder,Kael's Folly,Retrieval,text_6.txt
+T6Q4,What materials were the blades made of?,Wood,Iron,Canvas,Paper,Silk,Canvas,Retrieval,text_6.txt
+T6Q5,What did the machine produce from the wheat?,Bread,Flour,Water,Gold,Dust,Flour,Retrieval,text_6.txt
+T6Q6,Closest meaning to 'perched'?,Flying,Falling,Sitting high up,Hidden,Built low,Sitting high up,Word Meaning,text_6.txt
+T6Q7,Closest meaning to 'gale'?,Gentle breeze,Strong wind/storm,Rain,Snow,Silence,Strong wind/storm,Word Meaning,text_6.txt
+T6Q8,Closest meaning to 'folly'?,Genius idea,Foolishness/Silly idea,Machine,Invention,Building,Foolishness/Silly idea,Word Meaning,text_6.txt
+T6Q9,Closest meaning to 'tamed'?,Made wild,Controlled/Domesticated,Killed,Released,Angered,Controlled/Domesticated,Word Meaning,text_6.txt
+T6Q10,Closest meaning to 'blur'?,Clear shape,Unclear/Fast movement,Slow stop,Colourful,Loud noise,Unclear/Fast movement,Word Meaning,text_6.txt
+T6Q11,Why did Kael's father laugh at him?,He told a joke,He thought the idea was impossible,He was happy,He was mean,The machine looked funny,He thought the idea was impossible,Inference,text_6.txt
+T6Q12,How was Kael different from the other villagers?,He was taller,He hated the wind,He loved the wind,He was rich,He lived in a cave,He loved the wind,Inference,text_6.txt
+T6Q13,Why did Kael choose the highest point of the cliff?,To be alone,The wind is strongest there,To hide the machine,To be closer to the sun,It was flat,The wind is strongest there,Inference,text_6.txt
+T6Q14,What does the phrase 'snapped tree branches like matchsticks' suggest?,The trees were small,The wind was very powerful,Matchsticks are strong,Someone was breaking wood,The trees were dry,The wind was very powerful,Inference,text_6.txt
+T6Q15,What lesson does the story teach?,Wind is dangerous,Don't go outside,Nature can be useful if understood,Listen to your parents,Building is hard,Nature can be useful if understood,Inference,text_6.txt
+T6Q16,...roared.' 'Roared' is a:,Noun,Adjective,Verb,Adverb,Pronoun,Verb,Word Type,text_6.txt
+T6Q17,...heavy cloaks.' 'Heavy' is an:,Adverb,Noun,Adjective,Verb,Preposition,Adjective,Word Type,text_6.txt
+T6Q18,...Kael wheeled his machine.' 'Wheeled' is a:,Noun,Verb,Adjective,Adverb,Pronoun,Verb,Word Type,text_6.txt
+T6Q19,...highest point.' 'Highest' is a:,Comparative Adjective,Superlative Adjective,Noun,Verb,Adverb,Superlative Adjective,Word Type,text_6.txt
+T6Q20,...powerful friend.' 'Friend' is a:,Abstract Noun,Concrete Noun,Verb,Adjective,Adverb,Concrete Noun,Word Type,text_6.txt
+T7Q1,Where was the coach travelling to?,London,York,Bath,Edinburgh,Dover,York,Retrieval,text_7.txt
+T7Q2,What was the weather like?,Sunny,Snowing,Stormy/Raining,Foggy,Calm,Stormy/Raining,Retrieval,text_7.txt
+T7Q3,What was the elderly lady holding?,A cat,A velvet bag,A stick,A lantern,A book,A velvet bag,Retrieval,text_7.txt
+T7Q4,Why did the coach stop?,Highwaymen attacked,A horse ran away,Wheel caught in a rut,The driver fell asleep,A tree fell,Wheel caught in a rut,Retrieval,text_7.txt
+T7Q5,Who went outside to help the driver?,The snoring man,The elderly lady,Oliver,No one,A soldier,Oliver,Retrieval,text_7.txt
+T7Q6,Closest meaning to 'oblivious'?,Scared,Unaware,Angry,Happy,Awake,Unaware,Word Meaning,text_7.txt
+T7Q7,Closest meaning to 'notorious'?,Famous for something bad,Unknown,Safe,Long,Bumpy,Famous for something bad,Word Meaning,text_7.txt
+T7Q8,Closest meaning to 'lurched'?,Stopped,Moved suddenly/staggered,Sped up,Broke,Fell,Moved suddenly/staggered,Word Meaning,text_7.txt
+T7Q9,Closest meaning to 'clutching'?,Dropping,Holding tightly,Throwing,Looking at,Opening,Holding tightly,Word Meaning,text_7.txt
+T7Q10,Closest meaning to 'absolute' in paragraph 3?,Partial,Complete/Total,Bright,Noisy,Wet,Complete/Total,Word Meaning,text_7.txt
+T7Q11,Why did the lady clutch her bag?,It was cold,She was hungry,She feared robbery/loss,It was heavy,She was sleeping,She feared robbery/loss,Inference,text_7.txt
+T7Q12,Why was the snoring man afraid when he woke up?,He hate rain,He thought it was highwaymen,He was late,He was hurt,He lost his hat,He thought it was highwaymen,Inference,text_7.txt
+T7Q13,What does 'lashed against the windows' suggest?,The rain was gentle,The rain was violent,Someone was hitting the window,The window was broken,It was sunny,The rain was violent,Inference,text_7.txt
+T7Q14,Why did Oliver feel 'ten feet tall' at the end?,He grew taller,He was standing on a box,He felt proud/heroic,He was wearing high boots,The coach was high up,He felt proud/heroic,Inference,text_7.txt
+T7Q15,The phrase 'ghosts' in paragraph 1 describes:,Real ghosts,The pale passengers in the flickering light,The driver,The horses,The highwaymen,The pale passengers in the flickering light,Inference,text_7.txt
+T7Q16,...angry giant.' 'Angry' is an:,Adverb,Noun,Verb,Adjective,Pronoun,Adjective,Word Type,text_8.txt
+T7Q17,...snored loudly.' 'Loudly' is an:,Adjective,Noun,Adverb,Verb,Preposition,Adverb,Word Type,text_8.txt
+T7Q18,...wood splintering.' 'Splintering' is a:,Noun,Adjective,Verb,Pronoun,Conjunction,Verb,Word Type,text_8.txt
+T7Q19,...into the mud.' 'Mud' is a:,Common Noun,Proper Noun,Adjective,Verb,Adverb,Common Noun,Word Type,text_8.txt
+T7Q20,He stepped out.' 'He' is a:,Noun,Verb,Adjective,Pronoun,Adverb,Pronoun,Word Type,text_8.txt
+T8Q1,Which planet is Mars's position from the Sun?,1st,2nd,3rd,4th,5th,4th,Retrieval,text_8.txt
+T8Q2,Why is Mars red?,Fire,Iron oxide (rust),Red plants,Lava,Reflection of the sun,Iron oxide (rust),Retrieval,text_8.txt
+T8Q3,What is Olympus Mons?,A canyon,A river,A volcano,A crater,A moon,A volcano,Retrieval,text_8.txt
+T8Q4,What is the atmosphere mostly made of?,Oxygen,Nitrogen,Carbon Dioxide,Helium,Hydrogen,Carbon Dioxide,Retrieval,text_8.txt
+T8Q5,What are the robotic explorers called?,Walkers,Rovers,Flyers,Drivers,Runners,Rovers,Retrieval,text_8.txt
+T8Q6,Closest meaning to 'distinct'?,Blurry,Clear/Recognisable,Smelly,Far away,Small,Clear/Recognisable,Word Meaning,text_8.txt
+T8Q7,Closest meaning to 'gigantic'?,Tiny,Average,Huge/Enormous,Red,Sharp,Huge/Enormous,Word Meaning,text_8.txt
+T8Q8,Closest meaning to 'composed' in paragraph 3?,Calm,Written,Made up of,Music,Frozen,Made up of,Word Meaning,text_8.txt
+T8Q9,Closest meaning to 'analyze'?,Examine closely,Ignore,Eat,Destroy,Build,Examine closely,Word Meaning,text_8.txt
+T8Q10,Closest meaning to 'fascinated'?,Bored,Interested greatly,Scared,Hurt,Confused,Interested greatly,Word Meaning,text_8.txt
+T8Q11,Why is Olympus Mons compared to Mount Everest?,They are in the same country,To show how big Olympus Mons is,They are both red,Everest is on Mars,They are both volcanoes,To show how big Olympus Mons is,Inference,text_8.txt
+T8Q12,Why can humans not survive on Mars without suits?,Monsters,Too hot,No oxygen/Too cold,Too much water,Gravity is too strong,No oxygen/Too cold,Inference,text_8.txt
+T8Q13,What does the presence of dried riverbeds suggest?,It rains now,There was once water,There are fish,The rovers dug them,It is windy,There was once water,Inference,text_8.txt
+T8Q14,Why are the rovers called 'mobile science labs'?,They are fast,They do experiments while moving,They carry scientists,They are white,They are built in a lab,They do experiments while moving,Inference,text_8.txt
+T8Q15,The author thinks a human trip to Mars would be:,Boring,Easy,The greatest adventure,Impossible,A waste of time,The greatest adventure,Inference,text_8.txt
+T8Q16,...distinct reddish-brown hue.' 'Hue' is a:,Verb,Adjective,Noun,Adverb,Pronoun,Noun,Word Type,text_8.txt
+T8Q17,...incredibly cold.' 'Incredibly' is an:,Adjective,Noun,Verb,Adverb,Preposition,Adverb,Word Type,text_8.txt
+T8Q18,...without special suits.' 'Without' is a:,Noun,Verb,Adjective,Preposition,Conjunction,Preposition,Word Type,text_8.txt
+T8Q19,...analyze the soil.' 'Analyze' is a:,Noun,Verb,Adjective,Adverb,Pronoun,Verb,Word Type,text_8.txt
+T8Q20,...Mars was much warmer.' 'Warmer' is a:,Noun,Verb,Comparative Adjective,Superlative Adjective,Adverb,Comparative Adjective,Word Type,text_8.txt
+T9Q1,What was Clara told never to open?,The front door,The green gate,The book,The window,The box,The green gate,Retrieval,text_9.txt
+T9Q2,What was the grandmother doing?,Cooking,Gardening,Dozing (sleeping),Reading,Walking,Dozing (sleeping),Retrieval,text_9.txt
+T9Q3,What stood in the centre of the garden?,A tree,A stone fountain,A shed,A statue of a lion,A bench,A stone fountain,Retrieval,text_9.txt
+T9Q4,What bird did Clara see?,Crow,Sparrow,Robin,Eagle,Owl,Robin,Retrieval,text_9.txt
+T9Q5,What was on the wooden bench?,A hat,A glove,A book,A cup,A key,A book,Retrieval,text_9.txt
+T9Q6,Closest meaning to 'cascade' in paragraph 2?,Waterfall/Flow,Wall,Lock,Sound,Box,Waterfall/Flow,Word Meaning,text_9.txt
+T9Q7,Closest meaning to 'stubborn'?,Easy,Weak,Determined/Refusing to move,Fast,Dead,Determined/Refusing to move,Word Meaning,text_9.txt
+T9Q8,Closest meaning to 'cautiously'?,Carefully,Quickly,Loudly,Happily,Sadly,Carefully,Word Meaning,text_9.txt
+T9Q9,Closest meaning to 'sweltering'?,Freezing,Very hot,Rainy,Windy,Dark,Very hot,Word Meaning,text_9.txt
+T9Q10,Closest meaning to 'overgrowth'?,Neat grass,Excessive growth of plants,Stone path,Blue sky,Water,Excessive growth of plants,Word Meaning,text_9.txt
+T9Q11,Why did Clara open the gate?,She was naughty,She lost a ball,She sought adventure,She was hungry,She was cold,She sought adventure,Inference,text_9.txt
+T9Q12,What does 'world held in suspense' suggest?,It was scary,It was frozen in time/waiting,It was noisy,It was falling,It was moving fast,It was frozen in time/waiting,Inference,text_9.txt
+T9Q13,Why are the roses described as 'thorny branches tangling together like clasped hands'?,They are friendly,To show how thick/intertwined they are,They are actually hands,They are dying,Someone tied them,To show how thick/intertwined they are,Inference,text_9.txt
+T9Q14,Why was the book 'swollen'?,It was big,It was damaged by damp/water,It was full of words,It was eating,It was burning,It was damaged by damp/water,Inference,text_9.txt
+T9Q15,How did Clara feel at the end?,Terrified,Bored,Angry,Not afraid/Comfortable,Sick,Not afraid/Comfortable,Inference,text_9.txt
+T9Q16,...lips pursed.' 'Pursed' is a:,Noun,Adjective,Verb,Adverb,Pronoun,Verb,Word Type,text_9.txt
+T9Q17,...almost invisible.' 'Invisible' is an:,Adverb,Noun,Adjective,Verb,Preposition,Adjective,Word Type,text_9.txt
+T9Q18,...metallic complaint.' 'Complaint' is a:,Noun,Verb,Adjective,Adverb,Pronoun,Noun,Word Type,text_9.txt
+T9Q19,...sat under a willow tree.' 'Under' is a:,Noun,Verb,Adjective,Preposition,Conjunction,Preposition,Word Type,text_9.txt
+T9Q20,...brave bluebells.' 'Brave' is an:,Noun,Verb,Adjective,Adverb,Pronoun,Adjective,Word Type,text_9.txt
+T10Q1,What is the name of the shop?,The Timekeeper,Thorne & Daughter,Victorian Clocks,Elara's Watches,The Clock Tower,Thorne & Daughter,Retrieval,text_10.txt
+T10Q2,What tool was Elara using at the start?,Hammer,Screwdriver,Magnifying loupe,Wrench,Saw,Magnifying loupe,Retrieval,text_10.txt
+T10Q3,What was the weather like?,Sunny,Snowing,Raining,Foggy,Windy,Raining,Retrieval,text_10.txt
+T10Q4,What was strange about the watch face?,It was broken,It had no numbers,It was gold,It was square,It was missing hands,It had no numbers,Retrieval,text_10.txt
+T10Q5,What happened to the stranger when Elara touched the watch?,He ran away,He laughed,He froze,He fell asleep,He vanished,He froze,Retrieval,text_10.txt
+T10Q6,Closest meaning to 'patience' in this context?,Waiting calmly,Suffering,Medical care,Silence,Dust,Waiting calmly,Word Meaning,text_10.txt
+T10Q7,Closest meaning to 'sodden'?,Dry,Soaked/Wet through,Dirty,New,Torn,Soaked/Wet through,Word Meaning,text_10.txt
+T10Q8,Closest meaning to 'frail'?,Strong,Weak/Delicate,Angry,Happy,Loud,Weak/Delicate,Word Meaning,text_10.txt
+T10Q9,Closest meaning to 'metaphorically'?,Literally,Figuratively/Symbolically,Quietly,Loudly,Quickly,Figuratively/Symbolically,Word Meaning,text_10.txt
+T10Q10,Closest meaning to 'ceased'?,Started,Stopped,Increased,Moved,Broke,Stopped,Word Meaning,text_10.txt
+T10Q11,Why did Elara lie about her father?,She wanted the money,She hates him,He is too ill to work,He was dead,She wanted to steal the watch,He is too ill to work,Inference,text_10.txt
+T10Q12,The phrase 'Time is a river' is a:,Simile,Metaphor,Fact,Joke,Question,Metaphor,Inference,text_10.txt
+T10Q13,Why did the dust motes stop falling?,There was no wind,Time had stopped,Elara caught them,The stranger sneezed,It was magic dust,Time had stopped,Inference,text_10.txt
+T10Q14,What does 'jarring ring' suggest about the customer?,He was happy,He was calm,He was panicked/urgent,He was rich,He was careful,He was panicked/urgent,Inference,text_10.txt
+T10Q15,What is the 'secret' mentioned in the title?,Thorne steals watches,Elara is a robot,They control/maintain time itself,The shop is haunted,The watch is fake,They control/maintain time itself,Inference,text_10.txt
+T10Q16,...narrow alley.' 'Narrow' is an:,Adverb,Noun,Verb,Adjective,Pronoun,Adjective,Word Type,text_10.txt
+T10Q17,...bell above the door.' 'Above' is a:,Noun,Verb,Preposition,Adjective,Adverb,Preposition,Word Type,text_10.txt
+T10Q18,...hands shaking.' 'Shaking' is a:,Noun,Verb,Adjective,Pronoun,Conjunction,Verb,Word Type,text_10.txt
+T10Q19,...statue of fear.' 'Fear' is a:,Concrete Noun,Abstract Noun,Verb,Adjective,Proper Noun,Abstract Noun,Word Type,text_10.txt
+T10Q20,...blue light.' 'Blue' is an:,Adjective,Noun,Verb,Adverb,Preposition,Adjective,Word Type,text_10.txt
+T11Q1,How many bees can be in a single colony?,"1,000","10,000","60,000","100,000","2,000","60,000",Retrieval,text_11.txt
+T11Q2,What is the Queen's main job?,Gather nectar,Build cells,Lay eggs,Guard the hive,Make honey,Lay eggs,Retrieval,text_11.txt
+T11Q3,Which bees have no stingers?,Queens,Workers,Drones,Larvae,All bees,Drones,Retrieval,text_11.txt
+T11Q4,What shape are the wax cells?,Square,Circular,Triangular,Hexagonal,Octagonal,Hexagonal,Retrieval,text_11.txt
+T11Q5,How much of our food depends on bees?,Half,One-third,All of it,None,10 percent,One-third,Retrieval,text_11.txt
+T11Q6,Closest meaning to 'harmony'?,Noise,Agreement/Peace,Fighting,Confusion,Music,Agreement/Peace,Word Meaning,text_11.txt
+T11Q7,Closest meaning to 'sole' in paragraph 2?,Shoe part,Only/Single,Fish,Hard,Quick,Only/Single,Word Meaning,text_11.txt
+T11Q8,Closest meaning to 'forage'?,Sleep,Build,Search for food,Fight,Dance,Search for food,Word Meaning,text_11.txt
+T11Q9,Closest meaning to 'vital'?,Unimportant,Essential/Important,Deadly,Small,Fast,Essential/Important,Word Meaning,text_11.txt
+T11Q10,Closest meaning to 'declining'?,Going up,Staying same,Going down/Decreasing,Flying,Eating,Going down/Decreasing,Word Meaning,text_11.txt
+T11Q11,Why is the hive called a 'super-organism'?,Bees are huge,They act as one single unit,They are aliens,They live in trees,They are strong,They act as one single unit,Inference,text_11.txt
+T11Q12,Why do Drones not gather food?,They are lazy,They are too big,It is not their role,They have no wings,They eat honey,It is not their role,Inference,text_11.txt
+T11Q13,What is the purpose of the 'waggle dance'?,Exercise,To keep warm,To communicate food location,To scare predators,To find a mate,To communicate food location,Inference,text_11.txt
+T11Q14,Why are bee populations dropping?,Too much honey,Habitat loss/pesticides,Birds eating them,Too much rain,They are flying away,Habitat loss/pesticides,Inference,text_11.txt
+T11Q15,The author believes saving bees is:,A waste of time,Only for honey lovers,Important for humans,Impossible,Easy,Important for humans,Inference,text_11.txt
+T11Q16,...masterpiece of engineering.' 'Engineering' is a:,Verb,Adjective,Noun,Adverb,Pronoun,Noun,Word Type,text_11.txt
+T11Q17,...perfect harmony.' 'Perfect' is an:,Noun,Verb,Adjective,Adverb,Preposition,Adjective,Word Type,text_11.txt
+T11Q18,She returns to the hive.' 'She' is a:,Noun,Verb,Adjective,Pronoun,Adverb,Pronoun,Word Type,text_11.txt
+T11Q19,...estimated that one-third.' 'Estimated' is a:,Noun,Verb,Adjective,Adverb,Conjunction,Verb,Word Type,text_11.txt
+T11Q20,...own future.' 'Future' is a:,Noun,Verb,Adjective,Adverb,Preposition,Noun,Word Type,text_11.txt
+T12Q1,What was the name of the village?,Grey Mountain,Ash-hold,Dragon's Peak,Eldoria,Fire-town,Ash-hold,Retrieval,text_12.txt
+T12Q2,What did the villagers leave as an offering?,Gold,Grain and fish,Meat,Clothes,Water,Grain and fish,Retrieval,text_12.txt
+T12Q3,Where did Jaren hide?,In a tree,In a cave,Behind a boulder,In a basket,Under a bridge,Behind a boulder,Retrieval,text_12.txt
+T12Q4,What sound did Jaren hear?,A roar,Flapping wings,Clippety-clop of hooves,Hissing,Singing,Clippety-clop of hooves,Retrieval,text_12.txt
+T12Q5,What animals were actually eating the food?,Wolves,Bears,Mountain goats,Birds,Dragons,Mountain goats,Retrieval,text_12.txt
+T12Q6,Closest meaning to 'generations'?,Years,Families/Age groups over time,Old people,Stories,Villages,Families/Age groups over time,Word Meaning,text_12.txt
+T12Q7,Closest meaning to 'retreating'?,Attacking,Sleeping,Moving back/Leaving,Eating,Hiding,Moving back/Leaving,Word Meaning,text_12.txt
+T12Q8,Closest meaning to 'mythical'?,Real,Scary,Imaginary/Legendary,Huge,Loud,Imaginary/Legendary,Word Meaning,text_12.txt
+T12Q9,Closest meaning to 'startled'?,Fed,Surprised/Scared,Killed,Caught,Watched,Surprised/Scared,Word Meaning,text_12.txt
+T12Q10,Closest meaning to 'scattered'?,Gathered,Ran in different directions,Stayed still,Ate,Fell,Ran in different directions,Word Meaning,text_12.txt
+T12Q11,Why did the villagers leave food?,To feed the goats,To stop the volcano waking,To get rich,They had too much food,To catch the dragon,To stop the volcano waking,Inference,text_12.txt
+T12Q12,Why did Jaren hide?,He was scared,He was cold,He wanted to see the dragon,He was stealing food,He was playing hide and seek,He wanted to see the dragon,Inference,text_12.txt
+T12Q13,What does 'painting the rocks in silver light' mean?,Someone painted the rocks,It was snowing,The moonlight shone on them,It was daytime,There was silver there,The moonlight shone on them,Inference,text_12.txt
+T12Q14,How did Jaren feel at the end?,Terrified,Angry,Amused/Relieved,Sad,Hungry,Amused/Relieved,Inference,text_12.txt
+T12Q15,What is the irony of the story?,Jaren is young,The food was fish,The scary monster was just goats,The mountain was grey,The goats were white,The scary monster was just goats,Inference,text_12.txt
+T12Q16,...lay in the shadow.' 'Lay' is a:,Noun,Verb,Adjective,Adverb,Pronoun,Verb,Word Type,text_12.txt
+T12Q17,...crisp autumn evening.' 'Crisp' is an:,Noun,Verb,Adjective,Adverb,Preposition,Adjective,Word Type,text_12.txt
+T12Q18,...behind a large boulder.' 'Behind' is a:,Noun,Verb,Adjective,Preposition,Conjunction,Preposition,Word Type,text_12.txt
+T12Q19,...coat as white as snow.' This phrase is a:,Metaphor,Simile,Verb,Noun,Adverb,Simile,Word Type,text_12.txt
+T12Q20,...wondering if anyone.' 'Wondering' is a:,Noun,Verb,Adjective,Adverb,Pronoun,Verb,Word Type,text_12.txt
+T13Q1,What day did the door appear?,Monday,Tuesday,Wednesday,Friday,Sunday,Tuesday,Retrieval,text_13.txt
+T13Q2,What was the door handle shaped like?,A lion,A hand,A question mark,A key,A star,A question mark,Retrieval,text_13.txt
+T13Q3,What did the old man look like?,A soldier,A ghost,Made of parchment,A giant,A wizard,Made of parchment,Retrieval,text_13.txt
+T13Q4,What item did Felix find in the drawer?,A sock,A diamond ring,A tin soldier,Homework,A key,A tin soldier,Retrieval,text_13.txt
+T13Q5,What happened when Felix touched the diamond ring?,It turned to dust,It felt cold and heavy,It burned him,It disappeared,It glowed,It felt cold and heavy,Retrieval,text_13.txt
+T13Q6,Closest meaning to 'cavernous'?,Small,Bright,Huge/Like a cave,Wet,Noisy,Huge/Like a cave,Word Meaning,text_13.txt
+T13Q7,Closest meaning to 'croaked'?,Sang,Spoke in a rough voice,Shouted,Laughed,Cried,Spoke in a rough voice,Word Meaning,text_13.txt
+T13Q8,Closest meaning to 'stammered'?,Shouted,Whispered,Stuttered/Spoke with difficulty,Ran,Slept,Stuttered/Spoke with difficulty,Word Meaning,text_13.txt
+T13Q9,Closest meaning to 'perched'?,Flying,Sitting high up,Falling,Eating,Sleeping,Sitting high up,Word Meaning,text_13.txt
+T13Q10,Closest meaning to 'curiosity'?,Fear,Desire to know/learn,Anger,Hunger,Sadness,Desire to know/learn,Word Meaning,text_13.txt
+T13Q11,Why is the door handle shaped like a question mark?,It was cheap,It represents mystery/confusion,The owner's name is Mark,It is broken,It is a hook,It represents mystery/confusion,Inference,text_13.txt
+T13Q12,Why did Felix expect a shop?,It was between two shops,He wanted to buy sweets,He had money,It had a sign,He was hungry,It was between two shops,Inference,text_13.txt
+T13Q13,Why did the librarian warn Felix about the ring?,It was fake,It wasn't Felix's property,It was cursed,The librarian wanted it,It was dirty,It wasn't Felix's property,Inference,text_13.txt
+T13Q14,What implies the librarian has supernatural awareness?,He has a desk,He spoke when nowhere to be seen,He is old,He wears glasses,He sleeps,He spoke when nowhere to be seen,Inference,text_13.txt
+T13Q15,What is the lesson of the story?,Stealing is good,Don't lose your toys,Only take what belongs to you,Libraries are boring,Magic is real,Only take what belongs to you,Inference,text_13.txt
+T13Q16,...peeling blue.' 'Blue' is an:,Noun,Adjective,Verb,Adverb,Pronoun,Adjective,Word Type,text_13.txt
+T13Q17,...endless drawers.' 'Endless' is an:,Adjective,Noun,Verb,Adverb,Preposition,Adjective,Word Type,text_13.txt
+T13Q18,He pushed the door.' 'Pushed' is a:,Noun,Verb,Adjective,Adverb,Pronoun,Verb,Word Type,text_13.txt
+T13Q19,...rush of warmth.' 'Warmth' is a:,Concrete Noun,Abstract Noun,Verb,Adjective,Adverb,Abstract Noun,Word Type,text_13.txt
+T13Q20,...hurried back.' 'Back' is an:,Adjective,Noun,Verb,Adverb,Preposition,Adverb,Word Type,text_13.txt
+T14Q1,What is the largest land carnivore on Earth?,Lion,Tiger,Polar Bear,Elephant,Grizzly Bear,Polar Bear,Retrieval,text_14.txt
+T14Q2,What colour is a polar bear's skin?,White,Pink,Black,Brown,Grey,Black,Retrieval,text_14.txt
+T14Q3,What is the layer of fat called?,Fur,Blubber,Skin,Muscle,Bone,Blubber,Retrieval,text_14.txt
+T14Q4,What is the polar bear's main food?,Fish,Penguins,Seals,Birds,Whales,Seals,Retrieval,text_14.txt
+T14Q5,By what year could two-thirds of polar bears disappear?,2030,2040,2050,2100,3000,2050,Retrieval,text_14.txt
+T14Q6,Closest meaning to 'undisputed'?,Argued about,Weak,Certain/Unquestionable,Large,Cold,Certain/Unquestionable,Word Meaning,text_14.txt
+T14Q7,Closest meaning to 'adapted'?,Died,Suited/Evolved,Moved,Frozen,Hunted,Suited/Evolved,Word Meaning,text_14.txt
+T14Q8,Closest meaning to 'insulation'?,Food,Protection from cold/heat,Water,Swimming,Hunting,Protection from cold/heat,Word Meaning,text_14.txt
+T14Q9,Closest meaning to 'majestic'?,Small,Ugly,Grand/Impressive,Fast,White,Grand/Impressive,Word Meaning,text_14.txt
+T14Q10,Closest meaning to 'trends' in paragraph 4?,Fashions,Patterns of change,Friends,Icebergs,Animals,Patterns of change,Word Meaning,text_14.txt
+T14Q11,Why is the polar bear's fur transparent?,It has no colour,To reflect light/look white,To show the skin,To let water in,It is invisible,To reflect light/look white,Inference,text_14.txt
+T14Q12,Why is melting ice a problem for bears?,They can't swim,They lose their hunting ground,They get too hot,The water is toxic,They slip over,They lose their hunting ground,Inference,text_14.txt
+T14Q13,Why do bears wait by holes in the ice?,To drink,To sleep,To catch breathing seals,To hide,To cool down,To catch breathing seals,Inference,text_14.txt
+T14Q14,What does 'race against time' suggest?,Bears run fast,The situation is urgent,Clocks are melting,Scientists are running,It is a game,The situation is urgent,Inference,text_14.txt
+T14Q15,Why are they called 'land' carnivores if they swim?,They eat grass,They live mostly on ice/land,They are fish,It is a mistake,They can't swim,They live mostly on ice/land,Inference,text_14.txt
+T14Q16,...massive size.' 'Massive' is an:,Noun,Verb,Adjective,Adverb,Pronoun,Adjective,Word Type,text_14.txt
+T14Q17,...sneak up.' 'Sneak' is a:,Noun,Verb,Adjective,Adverb,Preposition,Verb,Word Type,text_14.txt
+T14Q18,...four inches thick.' 'Inches' is a:,Common Noun,Proper Noun,Verb,Adjective,Adverb,Common Noun,Word Type,text_14.txt
+T14Q19,...patiently by a hole.' 'Patiently' is an:,Adjective,Noun,Verb,Adverb,Pronoun,Adverb,Word Type,text_14.txt
+T14Q20,...without it.' 'It' is a:,Noun,Verb,Adjective,Pronoun,Adverb,Pronoun,Word Type,text_14.txt
+T15Q1,What was Koji's job?,Farmer,Stonecutter,Soldier,King,Merchant,Stonecutter,Retrieval,text_15.txt
+T15Q2,What was his first wish?,To be rich,To be the Wind,To be the Sun,To be a King,To be a Cloud,To be the Sun,Retrieval,text_15.txt
+T15Q3,What blocked Koji when he was the Sun?,The Moon,A Cloud,A Mountain,A Bird,The Wind,A Cloud,Retrieval,text_15.txt
+T15Q4,Why couldn't Koji (as the Wind) move the Mountain?,He was tired,The Mountain was too heavy/firm,He stopped blowing,The Sun stopped him,The Cloud was in the way,The Mountain was too heavy/firm,Retrieval,text_15.txt
+T15Q5,What was chipping away at the Mountain?,A river,A giant,A stonecutter,The wind,An animal,A stonecutter,Retrieval,text_15.txt
+T15Q6,Closest meaning to 'scorching'?,Freezing,Burning/Very hot,Watering,Helping,Lighting,Burning/Very hot,Word Meaning,text_15.txt
+T15Q7,Closest meaning to 'invincible'?,Invisible,Unbeatable/Too strong to be defeated,Weak,Small,Scared,Unbeatable/Too strong to be defeated,Word Meaning,text_15.txt
+T15Q8,Closest meaning to 'uprooted'?,Planted,Pulled out of the ground,Watered,Climbed,Cut,Pulled out of the ground,Word Meaning,text_15.txt
+T15Q9,Closest meaning to 'amazement'?,Boredom,Surprise/Wonder,Anger,Sleep,Fear,Surprise/Wonder,Word Meaning,text_15.txt
+T15Q10,Closest meaning to 'firm' in paragraph 7?,Soft,Company,Solid/Unmoving,Wet,Loud,Solid/Unmoving,Word Meaning,text_15.txt
+T15Q11,Why was Koji unhappy at the start?,He was hungry,His work was hard and he was tired,He was lonely,He was cold,He lost his money,His work was hard and he was tired,Inference,text_15.txt
+T15Q12,Why did Koji want to change each time?,He got bored,He met something stronger,He was asked to,He was cold,He liked magic,He met something stronger,Inference,text_15.txt
+T15Q13,Who granted the wishes?,A fairy,A genie,A spirit in the mountain,A wizard,Koji himself,A spirit in the mountain,Inference,text_15.txt
+T15Q14,What is the moral of the story?,Be satisfied with who you are,Mountains are best,Magic is dangerous,Work is bad,Sleep more,Be satisfied with who you are,Inference,text_15.txt
+T15Q15,How did Koji feel at the end?,Angry,Sad,Content/Happy,Confused,Sick,Content/Happy,Inference,text_15.txt
+T15Q16,...sun beat down.' 'Beat' is a:,Noun,Verb,Adjective,Adverb,Pronoun,Verb,Word Type,text_15.txt
+T15Q17,...voice boomed.' 'Boomed' is a:,Noun,Verb,Adjective,Adverb,Preposition,Verb,Word Type,text_15.txt
+T15Q18,...huge black Cloud.' 'Huge' is an:,Adjective,Noun,Verb,Adverb,Pronoun,Adjective,Word Type,text_15.txt
+T15Q19,...stood tall.' 'Tall' is an:,Adverb,Noun,Adjective,Verb,Preposition,Adjective,Word Type,text_15.txt
+T15Q20,...hammer in his hand.' 'Hand' is a:,Concrete Noun,Abstract Noun,Verb,Adjective,Adverb,Concrete Noun,Word Type,text_15.txt
